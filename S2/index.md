@@ -16,8 +16,8 @@
 
 ![](on.png) **Focus** - Formations - Opleidingen
 
-* Programme SPF - FOD-Programma
-* Programme S2 - S2-Programma
+&#10687; Programme SPF - FOD-Programma  
+&#10687; Programme S2 - S2-Programma
 
 
 
