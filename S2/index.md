@@ -10,7 +10,8 @@
 
 ## Quick Info
 
-![](off.png) **17.09.2018** - [Invitation]() - [Uitnodiging]()
+![](off.png) **17.09.2018**  
+[![](Invit_Uitnod_small.png)](![](Invit_Uitnod.png)) (*click to enlarge*)
 
 ![](on.png) **Focus** - Formations - Opleidingen
 
