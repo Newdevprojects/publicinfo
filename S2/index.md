@@ -11,8 +11,8 @@
 ## Quick Info
 
 ![](off.png) **17.09.2018**  
-![](Invit_Uitnod_small.png)](![](Invit_Uitnod.png)  
-(*agrandir l'image / afbeelding vergrooten*)
+![](Invit_Uitnod_small.png)]  
+( *[agrandir l'image / afbeelding vergrooten](Invit_Uitnod.png)* )
 
 ![](on.png) **Focus** - Formations - Opleidingen
 
