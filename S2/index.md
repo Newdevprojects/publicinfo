@@ -8,11 +8,16 @@
 
 &nbsp;
 
-## Quick Info
+## Quick Info S2
 
-![](off.png) **17.09.2018**  
+![](off.png) **17.09.2018** [&middot;](20180917_SpPts.md)  
 ![](Invit_Uitnod_small.png)  
 ( *[agrandir l'image / afbeelding vergrooten](Invit_Uitnod.png)* )
+
+![](on.png) **In the Pipeline** Division Financière - Financiële Afdeling
+
+&#10687; AS IS  
+&#10687; TO BE  
 
 ![](on.png) **Focus** - Formations - Opleidingen
 
