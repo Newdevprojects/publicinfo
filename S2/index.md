@@ -4,20 +4,15 @@
 
 ![](at.png) ![](header.jpg) ![](at.png)
 
-## &#10148;&#10148;&#10148; [https://Newdevprojects.github.io/publicinfo/S2/]()
+## &#10148;&#10148;&#10148; [https://newdevprojects.github.io/publicinfo/S2/]()
 
 &nbsp;
 
-## Quick Info S2
+## Quick Info
 
-![](off.png) **17.09.2018** [&middot;](20180917_SpPts.md)  
+![](off.png) **17.09.2018**  
 ![](Invit_Uitnod_small.png)  
 ( *[agrandir l'image / afbeelding vergrooten](Invit_Uitnod.png)* )
-
-![](on.png) **In the Pipeline** Division Financière - Financiële Afdeling
-
-&#10687; AS IS  
-&#10687; TO BE  
 
 ![](on.png) **Focus** - Formations - Opleidingen
 
