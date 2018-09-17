@@ -8,7 +8,7 @@
 
 &nbsp;
 
-## Quick Info
+## Quick Info S2 [&middot;](20180917_SpPts.md)
 
 ![](off.png) **17.09.2018**  
 ![](Invit_Uitnod_small.png)  
