@@ -10,9 +10,11 @@
 
 ## Quick Info S2
 
-![](off.png) **17.09.2018** [&middot;](20180917_SpPts.md)  
+![](off.png) **17.09.2018**  
 ![](Invit_Uitnod_small.png)  
 ( *[agrandir l'image / afbeelding vergrooten](Invit_Uitnod.png)* )
+
+![](on.png) [**Speaking Points**](20180917_SpPts.md)
 
 ![](on.png) **Focus** - Formations - Opleidingen
 
