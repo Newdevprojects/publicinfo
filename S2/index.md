@@ -19,7 +19,7 @@
 ![](on.png) **Focus** - Formations - Opleidingen
 
 &#10687; Programme SPF - FOD-Programma  
-&#10687; Programme S2 - S2-Programma
+&#10687; [Programme S2 - S2-Programma](S2_GOP_2019-23.pdf)
 
 
 
