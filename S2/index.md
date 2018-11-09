@@ -10,18 +10,14 @@
 
 ## Quick Info S2
 
-![](off.png) **17.09.2018**  
-![](Invit_Uitnod_small.png)  
-( *[agrandir l'image / afbeelding vergrooten](Invit_Uitnod.png)* )
+![](off.png) **17.09.2018** - [Agenda](Invit_Uitnod.png)  
 
-![](on.png) [**Speaking Points**](20180917_SpPts.md)
+![](off.png) [**Speaking Points**](20180917_SpPts.md)
 
-![](on.png) **Focus** - Formations - Opleidingen
+![](off.png) **Focus** - Formations - Opleidingen [(Programme S2 - S2-Programma)](S2_GOP_2019-23.pdf)
 
-&#10687; Programme SPF - FOD-Programma  
-&#10687; [Programme S2 - S2-Programma](S2_GOP_2019-23.pdf)
+---
 
-
-
+![](on.png) **20.11.2018** - Agenda
 
 
