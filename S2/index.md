@@ -10,13 +10,9 @@
 
 ## Quick Info S2
 
-![](off.png) **17.09.2018** - [Agenda](Invit_Uitnod.png)  
+## &nbsp;
 
-![](off.png) [**Speaking Points**](20180917_SpPts.md)
-
-![](off.png) **Focus** - Formations - Opleidingen [(Programme S2 - S2-Programma)](S2_GOP_2019-23.pdf)
-
----
+### <mark>New ![](next.png)</mark>
 
 ![](on.png) **20.11.2018** - Agenda  
 ![](20181120_Agenda_smaller.png)  
@@ -25,4 +21,17 @@
 ![](off.png) Speaking Points
 
 ![](off.png) Focus - Télétravail - Telewerk (procedures)
+
+## &nbsp;
+
+### <mark>Past ![](arch.png)</mark> 
+
+![](off.png) **17.09.2018** - [Agenda](Invit_Uitnod.png)  
+
+![](off.png) [**Speaking Points**](20180917_SpPts.md)
+
+![](off.png) **Focus** - Formations - Opleidingen [(Programme S2 - S2-Programma)](S2_GOP_2019-23.pdf)
+
+---
+
 
