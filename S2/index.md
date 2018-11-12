@@ -19,7 +19,7 @@
 ---
 
 ![](on.png) **20.11.2018** - Agenda  
-![](at.png)  
+![](20181120_Agenda_small.png)  
 [agrandir l'image - afbeelding vergroten](20181120_Agenda.png)
 
 ![](off.png) Speaking Points
