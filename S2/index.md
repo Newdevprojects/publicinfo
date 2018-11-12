@@ -12,7 +12,7 @@
 
 ## &nbsp;
 
-### <mark>New</mark> ![](next.png)
+### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
 ![](on.png) **20.11.2018** - Agenda  
 ![](20181120_Agenda_small.png)  
@@ -24,7 +24,7 @@
 
 ## &nbsp;
 
-### <mark>Past</mark> ![](arch.png) 
+### <mark>&nbsp;Past&nbsp;</mark> ![](arch.png) 
 
 ![](off.png) **17.09.2018** - [Agenda](Invit_Uitnod.png)  
 
