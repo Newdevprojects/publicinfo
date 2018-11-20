@@ -12,7 +12,7 @@
 
 ## &nbsp;
 
-### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
+### <mark>&nbsp;New&nbsp;</mark> ![](next.png) [&middot;](20181120_SpPts.md)
 
 ![](on.png) **20.11.2018** - Agenda  
 ![](20181120_Agenda_small.png)  
