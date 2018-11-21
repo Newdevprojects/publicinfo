@@ -10,7 +10,7 @@ J’ai travaillé pendant plus de 10 ans dans un bureau comptable. Le bureau com
 
 ![](DMailleux_2.png)
 
-Tout comme Robert Dumoulin, j’ai un lien particulier avec la France vu que ma compagne est française. Mes enfants (&Eacute;line (2 ans et 10 mois) et Edgar (3 mois)) ont donc la double nationalité Belge et Française, ce qui ne les empêche pas de raccourcir mes nuits pour l’instant…
+Tout comme [Robert Dumoulin](https://newdevprojects.github.io/S2/RD_F.html), j’ai un lien particulier avec la France vu que ma compagne est française. Mes enfants (&Eacute;line (2 ans et 10 mois) et Edgar (3 mois)) ont donc la double nationalité Belge et Française, ce qui ne les empêche pas de raccourcir mes nuits pour l’instant…
 
 ![](DMailleux_3.png)
 
