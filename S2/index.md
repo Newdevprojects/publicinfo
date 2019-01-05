@@ -20,9 +20,7 @@
 
 ![](off.png) **20.11.2018** - [Agenda](20181120_Agenda_small.png)  
 
-![](off.png) [**Speaking Points**](20181120_SpPts.md)
-
-![](off.png) Focus - Télétravail - Telewerk (procedures)
+![](off.png) [**Speaking Points**](20181120_SpPts.md) - Focus - Télétravail - Telewerk (procedures)
 
 ![](off.png) **17.09.2018** - [Agenda](Invit_Uitnod.png)  
 
