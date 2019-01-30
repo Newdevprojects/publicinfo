@@ -14,6 +14,8 @@
 
 ### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
+![](on.png) **05.02.2019** - ![Agenda](20181120_Agenda_small.png)  
+
 ## &nbsp;
 
 ### <mark>&nbsp;Past&nbsp;</mark> ![](arch.png) 
