@@ -14,13 +14,13 @@
 
 ### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
-![](on.png) **05.02.2019** - ![Agenda](20181120_Agenda_small.png)  
+![](on.png) **05.02.2019** - ![Agenda](20190205_Agenda_small.png)  
 
 ## &nbsp;
 
 ### <mark>&nbsp;Past&nbsp;</mark> ![](arch.png) 
 
-![](off.png) **20.11.2018** - [Agenda](20181120_Agenda_small.png)  
+![](off.png) **20.11.2018** - [Agenda](20181120_Agenda.png)  
 
 ![](off.png) [**Speaking Points**](20181120_SpPts.md) - Focus - Télétravail - Telewerk (procedures)
 
