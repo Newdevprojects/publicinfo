@@ -14,7 +14,9 @@
 
 ### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
-![](on.png) **05.02.2019** - ![Agenda](20190205_Agenda_small.png)  
+![](on.png) **05.02.2019**  
+![Agenda](20190205_Agenda_small.png)  
+(&nbsp;[Agrandir l'image / Afbeelding vergroten](20190205_Agenda.png)&nbsp;)  
 
 ## &nbsp;
 
