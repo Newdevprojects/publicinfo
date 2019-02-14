@@ -16,7 +16,7 @@
 
 ![](on.png) **05.02.2019**  
 ![Agenda](20190205_Agenda_small.png)  
-(&nbsp;[Agrandir l'image / Afbeelding vergroten](20190205_Agenda.png)&nbsp;)  
+(&nbsp;[Agrandir l'image / Afbeelding vergroten](20190205_Agenda.png)&nbsp;) [&middot;](20190205_FR.md) [&middot;](20190205_NL.md)  
 
 ## &nbsp;
 
