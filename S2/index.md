@@ -14,13 +14,13 @@
 
 ### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
-![](on.png) **05.02.2019**  
-![Agenda](20190205_Agenda_small.png)  
-(&nbsp;[Agrandir l'image / Afbeelding vergroten](20190205_Agenda.png)&nbsp;) [&middot;](20190205_FR.md) [&middot;](20190205_NL.md)  
+![](on.png) **05.02.2019** - Speaking Points - [FR](20190505_FR.md) - [NL](20190505_NL.md)  
 
 ## &nbsp;
 
 ### <mark>&nbsp;Past&nbsp;</mark> ![](arch.png) 
+
+![](on.png) **20.11.2018** - [Agenda](20190205_Agenda.png)  
 
 ![](off.png) **20.11.2018** - [Agenda](20181120_Agenda.png)  
 
