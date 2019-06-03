@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="S2.css">
+<link rel="stylesheet" href="foghorn2.css">
 
 # **S2 - Public Info**
 
