@@ -6,7 +6,7 @@
 
 ## &#10148;&#10148;&#10148; [https://newdevprojects.github.io/publicinfo/S2/]()
 
-&nbsp;
+&nbsp;[&middot;](whoswho.md)
 
 ## Quick Info S2
 
