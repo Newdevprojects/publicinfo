@@ -3,7 +3,7 @@
 # ![](silhouettes.svg) Who's Who ![](silhouettes.svg)
 
 * ## Natascha VERBRUGGEN 
-    > * <mark>&nbsp;New&nbsp;</mark> [Wie ben je?](Natascha_Verbruggen.md) |
+    > * Wie ben je?
 * ## Denis MAILLEUX
     > * [Je m'appelle Denis...](Denis_Mailleux.md)
 * ## Robert DUMOULIN

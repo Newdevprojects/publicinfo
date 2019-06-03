@@ -10,7 +10,7 @@
 
 ### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
-## ![](silhouettes.svg) [**Who's Who @ S2**]() ![whoswho.md](silhouettes.svg)
+## ![](silhouettes.svg) [**Who's Who @ S2**](whoswho.md) ![](silhouettes.svg)
 
 ---
 
