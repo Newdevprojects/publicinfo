@@ -15,7 +15,7 @@
 
 ---
 
-## ![](calendar.svg) **Quick Info S2**
+# ![](calendar.svg) **Quick Info S2**
 
 ## &nbsp;
 
