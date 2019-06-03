@@ -20,14 +20,17 @@
 
 ### <mark>&nbsp;Past&nbsp;</mark> ![](arch.png) 
 
+![](off.png) **05.02.2019** - [Agenda](20190205_Agenda.png)  
+
 ![](off.png) **05.02.2019** - Speaking Points - [FR](20190205_FR.md) - [NL](20190205_NL.md)  
 
-
-![](off.png) **20.11.2018** - [Agenda](20190205_Agenda.png)  
+---
 
 ![](off.png) **20.11.2018** - [Agenda](20181120_Agenda.png)  
 
 ![](off.png) [**Speaking Points**](20181120_SpPts.md) - Focus - Télétravail - Telewerk (procedures)
+
+---
 
 ![](off.png) **17.09.2018** - [Agenda](Invit_Uitnod.png)  
 
