@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="S2.css">
 
-# Who's Who
+# ![](silhouettes.svg) Who's Who ![](silhouettes.svg)
 
-* ## Natascha VERBRUGGEN
+* ## Natascha VERBRUGGEN 
     > * <mark>&nbsp;New&nbsp;</mark> [Wie ben je?](Natascha_Verbruggen.md) |
 * ## Denis MAILLEUX
     > * [Je m'appelle Denis...](Denis_Mailleux.md)

@@ -1,14 +1,20 @@
 <link rel="stylesheet" href="S2.css">
 
-# S2 - Public Info
+# **S2 - Public Info**
 
 ![](at.png) ![](header.jpg) ![](at.png)
 
 ## &#10148;&#10148;&#10148; [https://newdevprojects.github.io/publicinfo/S2/]()
 
-&nbsp;[&middot;](whoswho.md)
+---
 
-## Quick Info S2
+### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
+
+## ![](silhouettes.svg) [**Who's Who @ S2**]() ![whoswho.md](silhouettes.svg)
+
+---
+
+## ![](calendar.svg) **Quick Info S2**
 
 ## &nbsp;
 
