@@ -10,7 +10,7 @@ Directiecomité dd. 26.11.2018
 Notulen (definitieve versie) van TOC dd. 29.05.2019
 
 > Mevrouw Vervenne licht de twee door het Directiecomité voorgesteide scenario’s toe:  
-> *  Afschaffing van de prikkiok voor alle medewerkers, met 4 dagen compensatie<br>( 31d + 4d = 35 dagen jaarlijks veriof)  
+> *  Afschaffing van de prikklok voor alle medewerkers, met 4 dagen compensatie<br>( 31d + 4d = 35 dagen jaarlijks veriof)  
 > * Medewerkers krijgen de keuze: prikken of niet prikken: wie prikt, heeft recht op maximum 18 dagen recuperatie op jaarbasis (huidig systeem); wie niet prikt, krijgt geen recuperatiedagen. (...)  
 
 > De voorzitter (...) besluit dat de kwestie opnieuw zal worden besproken op het Directiecomité, rekening houdend met de argumenten die door de vakbonden naar voren zijn gebracht.
@@ -44,4 +44,4 @@ Notulen (definitieve versie) van TOC dd. 29.05.2019
 | Tussenoverlegcomité dd. 31.07.2019 |
 | --- |
 | De verificaties en aanpassingsvoorstellen van S1 en ACV-Openbare Diensten werden doorgelopen en een akkord kon worden bereikt tussen de delegaties van de Overheid en de 3 vakbonden |
-| Na de zomerperiode wordt de geconsolideerd tekst vertaald en het Arbeidsreglement krijgt een nieuwe bijlage, die aan de personeelsleden wordt medegedeeld |
+| Na de zomerperiode wordt de geconsolideerd tekst vertaald. <b>Het Arbeidsreglement krijgt een nieuwe bijlage</b>, die aan de personeelsleden officiëel wordt medegedeeld |

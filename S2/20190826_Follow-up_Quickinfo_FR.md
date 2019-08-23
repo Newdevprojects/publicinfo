@@ -24,7 +24,7 @@ Debriefing : [*Quick Info S2*](https://newdevprojects.github.io/publicinfo/S2/20
 | --- |
 | Le comité de direction a présenté aux organisations syndicales une proposition donnant le choix aux membres du personnel du SPF &Eacute;conomie entre pointer et ne plus pointer. En cas de non-pointage, le membre du personnel ne recevrait <u>aucun(e) (jour de) compensation</u>. |
 | Laisser le choix entre pointer et ne pas pointer a été jugé positif en soi, mais <u>vu que</u> la grande majorité des <u>autres SPF</u> (et autres services fédéraux) proposent <u>un certain nombre de jours de compensation</u> en échange du travail ﬂexible (et donc sans pointage), <u>les 3 organisations syndicales ont rejeté cette proposition.</u> |
-| Le président a.i. du comité de direction a conclu que ces discussions étaient provisoirement clôturées et que <u><b>la situation actuelle</b></u> (de même que l’annexe 1 du Règlement de Travail) <u><b>restera donc inchangée</b></u>. |
+| Le président a.i. du comité de direction a conclu que les discussions sont ainsi provisoirement clôturées et que <u><b>la situation actuelle</b></u> (de même que l’annexe 1 du Règlement de Travail) <u><b>restera donc inchangée</b></u>. |
 
 
 ## Télétravail
