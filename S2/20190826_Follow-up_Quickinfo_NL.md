@@ -43,5 +43,5 @@ Notulen (definitieve versie) van TOC dd. 29.05.2019
 
 | Tussenoverlegcomité dd. 31.07.2019 |
 | --- |
-| De verificaties en aanpassingsvoorstellen van S1 en ACV-Openbare Diensten werden doorgelopen en een akkord kon worden bereikt tussen de delegaties van de Overheid en de 3 vakbonden |
-| Na de zomerperiode wordt de geconsolideerd tekst vertaald. <b>Het Arbeidsreglement krijgt een nieuwe bijlage</b>, die aan de personeelsleden officiëel wordt medegedeeld |
+| De verificaties en aanpassingsvoorstellen van S1 en ACV-Openbare Diensten werden doorgelopen en een akkord kon worden bereikt tussen de delegaties van de Overheid en de 3 vakbonden. |
+| Na de zomerperiode wordt de geconsolideerd tekst vertaald. <b>Het Arbeidsreglement krijgt een nieuwe bijlage</b>, die aan de personeelsleden officiëel wordt medegedeeld. |
