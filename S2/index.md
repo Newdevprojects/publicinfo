@@ -21,11 +21,16 @@
 
 ### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
-![](on.png) **04.06.2019** - [Agenda](20190604_Agenda.md)
+![](on.png) **28.08.2019** - [Follow-up syndicaal overleg (prikklok & telewerk)](20190826_Follow-up_Quickinfo_NL.md)
+
+![](on.png) **28.08.2019** - [Follow-up concertation syndicale (pointeuse & télétravail)](20190826_Follow-up_Quickinfo_FR.md)
+
 
 ## &nbsp;
 
 ### <mark>&nbsp;Past&nbsp;</mark> ![](arch.png) 
+
+![](off.png) **04.06.2019** - [Agenda](20190604_Agenda.md)
 
 ![](off.png) **05.02.2019** - [Agenda](20190205_Agenda.png)  
 
