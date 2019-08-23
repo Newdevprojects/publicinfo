@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="S2.css">
+
 ## Pointeuse
 
 Comité de direction du 26.11.2018

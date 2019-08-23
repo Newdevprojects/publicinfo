@@ -24,7 +24,7 @@
 ![](on.png) **26.08.2019**
 
 * Follow-up syndicaal overleg: [prikklok en telewerk](20190826_Follow-up_Quickinfo_NL.md)
-* Suivi de la concertation syndicale : [pointeuse en télétravail](20190826_Follow-up_Quickinfo_FR.md)
+* Suivi de la concertation syndicale : [pointeuse et télétravail](20190826_Follow-up_Quickinfo_FR.md)
 
 
 ## &nbsp;

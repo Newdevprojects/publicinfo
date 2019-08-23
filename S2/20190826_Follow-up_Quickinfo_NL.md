@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="S2.css">
+
 ## Prikklok
 
 Directiecomité dd. 26.11.2018
