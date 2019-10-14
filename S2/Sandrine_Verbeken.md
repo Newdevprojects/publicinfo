@@ -27,7 +27,7 @@ Sandrine a intégré le personnel d'accueil du North Gate. Elle se présente sou
 ## Mon parcours 
 
 Je suis originaire d'Ath.  
-J'ai commencé ma carriére comme infirmière dans le secteur privé dans un service de gériatrie.  
+J'ai commencé ma carrière comme infirmière dans le secteur privé dans un service de gériatrie.  
 
 Je suis arrivée au SPF &Eacute;conomie ensuite comme secrétaire médicale du dentiste du Département.  
 Ensuite, j’ai intégré l’équipe des infirmières du SPF. Je m’occupais des soins, des vaccinations et des prises de sang.  
