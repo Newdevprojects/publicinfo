@@ -4,6 +4,10 @@
 
 * ## Natascha VERBRUGGEN 
     > * [Wie ben je?](Natascha_Verbruggen.md)
+* ## Sandrine VERBEKEN 
+    > * [Mon portrait chinois](Sandrine_Verbeken.md)
+* ## Dita USLU 
+    > * [Je m'appelle Dita](Dita_Uslu.md)
 * ## Denis MAILLEUX
     > * [Je m'appelle Denis...](Denis_Mailleux.md)
 * ## Robert DUMOULIN
