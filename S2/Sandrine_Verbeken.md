@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="S2.css">
 <link rel="stylesheet" href="foghorn2.css">
 
-## Wie ben je? 
+## Sandrine Verbeken 
 
 Sandrine a intégré le personnel d'accueil du North Gate. Elle se présente à l'aide d'un petit [portrait chinois](https://fr.wikipedia.org/wiki/Portrait_chinois).
 
