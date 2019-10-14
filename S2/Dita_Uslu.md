@@ -12,9 +12,8 @@ J'y suis finalement restée six mois, et ce fut une merveilleuse aventure non se
 
 &nbsp;
 
-A mon retour, j’ai travaillé pendant plus de trois années au Palais de Justice de Bruxelles.  
-J’étais greffière au Tribunal Correctionnel - section m&oelig;urs - pendant plus de 2 ans et ensuite au Tribunal de la Jeunesse.  
-Cette expérience extrêmement intéressante et marquante m’a rapidement permis de **plonger dans notre système judiciaire** en confrontant la théorie à la pratique et de confirmer l’adage selon lequel la réalité dépasse bien la fiction.
+A mon retour, j’ai travaillé pendant plus de trois années au Palais de Justice de Bruxelles, où j'ai été greffière au Tribunal Correctionnel - section m&oelig;urs - pendant plus de deux ans et ensuite au Tribunal de la Jeunesse.  
+Cette expérience extrêmement intéressante et marquante m’a rapidement permis de **plonger dans notre système judiciaire** en confrontant la théorie à la pratique, et de confirmer l’adage selon lequel la réalité dépasse bien la fiction.
 
 ![](plongee.png) "*En plongée pendant 3 ans...*"
 
@@ -30,6 +29,6 @@ J’y étais notamment en charge de la gestion administrative et financière des
 
 J’ai intégré le Service Achat le 17 juin 2019 et, du coup, une nouvelle page professionnelle est en train de s’écrire.
 
-Je suis, entre autres, passionnée par les livres, les voyages et les rencontres d’autres cultures et la musique. D'ailleurs, j’essaie désespérément que ma guitare sonne ... **;-)** juste.   
+Je suis, entre autres, passionnée par les livres, les voyages et les rencontres d’autres cultures et la musique. D'ailleurs, j’essaie désespérément que ma guitare ... sonne **;-)** juste.   
 J'aime aussi beaucoup la photographie, ainsi que les balades dans la nature.
 
