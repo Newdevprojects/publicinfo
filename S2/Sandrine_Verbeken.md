@@ -3,7 +3,7 @@
 
 ## Wie ben je? 
 
-Sandrine a intégré le personnel d'accueil du North Gate. Elle se présente sous la forme d'un petit [portrait chinois](https://fr.wikipedia.org/wiki/Portrait_chinois).
+Sandrine a intégré le personnel d'accueil du North Gate. Elle se présente à l'aide d'un petit [portrait chinois](https://fr.wikipedia.org/wiki/Portrait_chinois).
 
 ![](Sandrine.png)
 
