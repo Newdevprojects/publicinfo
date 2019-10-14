@@ -5,7 +5,8 @@
 
 Je m’appelle Dita Uslu et je vis dans un quartier animé d’Ixelles.
 
-Après mes études de droit à l’Institut Supérieur Economique d’Ixelles, je suis partie **à Londres** avec l’objectif d’améliorer mon anglais et avec **un plan très simple : me débrouiller**, une fois sur place, pour trouver du travail et rester aussi longtemps que nécessaire. Je suis finalement restée 6 mois et ce fut une merveilleuse aventure non seulement professionnelle mais également humaine qui m’a appris énormément en peu de temps.
+Après mes études de droit à l’Institut Supérieur Economique d’Ixelles, je suis partie **à Londres** avec l’objectif d’améliorer mon anglais et avec **un plan très simple : me débrouiller**, une fois sur place, pour trouver du travail et rester aussi longtemps que nécessaire.  
+J'y suis finalement restée 6 mois, et ce fut une merveilleuse aventure non seulement professionnelle, mais également humaine, qui m’a appris énormément en peu de temps.
 
 ![](metro_Londres.png) "*Survivre à Londres...*"
 
