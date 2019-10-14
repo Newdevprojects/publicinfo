@@ -9,9 +9,7 @@
 
 ---
 
-### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
-
-## ![](silhouettes.svg) [**Who's Who @ S2**](whoswho.md) ![](silhouettes.svg)
+# ![](silhouettes.svg) [**Who's Who @ S2**](whoswho.md) ![](silhouettes.svg)
 
 ---
 
@@ -21,15 +19,13 @@
 
 ### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
-![](on.png) **26.08.2019**
-
-* Follow-up syndicaal overleg: [prikklok en telewerk](20190826_Follow-up_Quickinfo_NL.md)
-* Suivi de la concertation syndicale : [pointeuse et télétravail](20190826_Follow-up_Quickinfo_FR.md)
-
+![](on.png) **21.10.2019** -[Agenda](20191021_Agenda.md)
 
 ## &nbsp;
 
 ### <mark>&nbsp;Past&nbsp;</mark> ![](arch.png) 
+
+![](oFF.png) **26.08.2019** [Pointeuse et télétravail](20190826_Follow-up_Quickinfo_FR.md) / [Prikklok en telewerk](20190826_Follow-up_Quickinfo_NL.md)
 
 ![](off.png) **04.06.2019** - [Agenda](20190604_Agenda.md)
 
