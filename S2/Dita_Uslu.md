@@ -30,5 +30,6 @@ J’y étais notamment en charge de la gestion administrative et financière des
 
 J’ai intégré le Service Achat le 17 juin 2019 et, du coup, une nouvelle page professionnelle est en train de s’écrire.
 
-Je suis, entre autres, passionnée par les livres, les voyages et les rencontres d’autres cultures, la musique - **;-)** à chaque fois, j’essaie désespérément que ma guitare sonne juste **;-)** -, mais aussi par la photographie et les balades dans la nature.
+Je suis, entre autres, passionnée par les livres, les voyages et les rencontres d’autres cultures et la musique. D'ailleurs, pour mes voisins, je promets qu'à chaque fois ... ou presque **;-)**, j’essaie désespérément que ma guitare sonne juste.  
+J'aime aussi la photographie et les balades dans la nature.
 
