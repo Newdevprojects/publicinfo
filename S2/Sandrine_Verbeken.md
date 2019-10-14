@@ -28,8 +28,10 @@ Sandrine a intégré le personnel d'accueil du North Gate. Elle se présente sou
 
 Je suis originaire d'Ath.  
 J'ai commencé ma carriére comme infirmière dans le secteur privé dans un service de gériatrie.  
+
 Je suis arrivée au SPF &Eacute;conomie ensuite comme secrétaire médicale du dentiste du Département.  
 Ensuite, j’ai intégré l’équipe des infirmières du SPF. Je m’occupais des soins, des vaccinations et des prises de sang.  
+
 &Agrave; la pension du Dr. Stulens, j'ai intégré le Contact Center. Dans le groupe 3 ("*Enquêtes*"), je répondais aux questions de propriété intellectuelle, de sécurité des produits et de statistiques.  
 
 Et me voici donc à S2 depuis juin 2019 !
