@@ -136,14 +136,14 @@ a:link {
 table {
 	color:#333333;
     border: 3px #b9c9fe solid;
-    width: 90%;
 }
 table th {
 	border-width: 1px;
 	padding: 8px;
 	border-style: solid;
 	border-color: #666666;
-	background-color: #b9c9fe;
+    background-color: #b9c9fe;
+    width: 90%;
 }
 table td {
 	border-width: 1px;
