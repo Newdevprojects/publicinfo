@@ -19,7 +19,7 @@
 
 ### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
-![](on.png) **21.10.2019** -[Agenda](20191021_Agenda.md)
+![](on.png) **21.10.2019** - [Agenda](20191021_Agenda.md)
 
 ## &nbsp;
 
