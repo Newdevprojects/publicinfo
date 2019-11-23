@@ -3,6 +3,8 @@
 
 ## Offre d'accompagnement
 
+![](o-support.png)
+
 &Agrave; l'occasion de la présentation faite pendant notre *Quick Info S2*, nos collègues de S1 (Gaëlle Gérard et Annelies Laureys) nous ont fourni quelques documents relatifs à l'offre d'accompagnement de la carrière :
 
 * leur [présentation](https://drive.google.com/open?id=1L0Zmy-tcX1wO_tqUIWZa_x3MoYOIYVa-) ;

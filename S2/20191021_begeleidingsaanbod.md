@@ -3,6 +3,8 @@
 
 ## Begeleidingsaanbod
 
+![](o-support.png)
+
 Naar aanleiding van de presentatie tijdens onze *Quick Info S2* bezorgden onze collega's van S1 (Annelies Laureys en Gaëlle Gérard)  enkele documenten m.b.t. hun begeleidingsaanbod:
 
 * hun [presentatie](https://drive.google.com/open?id=1HP0QQRmx47D7METEuSCL0i2npMfgWV03);
