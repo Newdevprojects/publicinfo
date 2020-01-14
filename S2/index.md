@@ -19,11 +19,13 @@
 
 ### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
-![](on.png) **21.10.2019** - [Agenda](20191021_Agenda.md)
+![](on.png) **21.01.2020** - [Agenda](20200121_Agenda.md)
 
 ## &nbsp;
 
 ### <mark>&nbsp;Past&nbsp;</mark> ![](arch.png) 
+
+![](off.png) **21.10.2019** - [Agenda](20191021_Agenda.md)
 
 ![](oFF.png) **26.08.2019** [Pointeuse et télétravail](20190826_Follow-up_Quickinfo_FR.md) / [Prikklok en telewerk](20190826_Follow-up_Quickinfo_NL.md)
 
