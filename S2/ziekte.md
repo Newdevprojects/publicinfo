@@ -7,7 +7,7 @@ On y a parlé de pointage, de régime de travail et de récupération des heures
 
 Ce Quick Info est l'occasion de rappeler ce qui a été dit à cette occasion et qui, *mutatis mutandis*, est d'application aux collaborateurs de S2.
 
-## Congés & récupération des heures supplémentaires
+## Congés & récupération<br>des heures supplémentaires
 
 | Codes *Prime Time* | *Deadlines* |
 | --- | --- | --- |
