@@ -19,6 +19,8 @@ Ce Quick Info est l'occasion de rappeler ce qui a été dit à cette occasion et
 
 &nbsp;
 
+* [Session d'information](PPT_Facility_FR.pdf) Service Facilitaire (gestion du personnel) - 24.10.2019
+
 * Mise en &oelig;uvre en 2019 par S2 de la décision du Comité de Direction du 19 mars 2019 ([heures supplémentaires 06A](Note_06_en_2019.pdf))
 
 [Quels types de congé sont-ils possibles ?]()

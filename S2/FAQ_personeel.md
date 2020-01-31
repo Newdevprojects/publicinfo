@@ -14,10 +14,12 @@ Onze *Quick Info S2* is een gelegenheid om te herinneren aan wat er bij deze gel
 | 01A - jaarlijks verlof 2020 | 31.12.2021 |
 | 01B - jaarlijks verlof 2019 | 31.12.2020 |
 | 01C - gespaard verlof | &otimes; (= onbeperkt, *ad lib.*) |
-| 05&nbsp;&nbsp; - overuren<br>(variabele uurregeling) | 1 &half; d. &rarr; einde volgende maand |
+| 05&nbsp;&nbsp; - overuren<br>(variabele uurregeling) | 1&half; d. &rarr; maand + 1 |
 | 06A - overuren<br>(vaste uurregeling) | binnen 4 maanden<br>(... maar AR 2000!) |
 
 &nbsp;
+
+* [Infosessie](PPT_Facility_NL.pdf) Facilitaire Dienst (personeelsbeheer) - 24.10.2019
 
 * Implementatie in 2019 bij S2 van de beslissing van het Directiecomité van 19 maart 2019 ([overuren 06A](Nota_06_in_2019.pdf))
 
