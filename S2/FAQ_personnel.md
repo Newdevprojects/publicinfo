@@ -23,20 +23,18 @@ Ce Quick Info est l'occasion de rappeler ce qui a été dit à cette occasion et
 
 * Mise en &oelig;uvre en 2019 par S2 de la décision du Comité de Direction du 19 mars 2019 ([heures supplémentaires 06A](Note_06_en_2019.pdf))
 
-[Quels types de congé sont-ils possibles ?]()
-
-Une question ? / Un doute ?  
+* Une question ? / Un doute ? / Un renseignement ?  
 &#10173; &#9743; ou &#9993; &rarr; Correspondant RH 
 
 
 ## Signalement des absences pour maladie
 
-Absentéisme de 2010 à 2018 (Source: Medex)
+Absentéisme de 2010 à 2018 (Source : Medex)
 
 | Chiffres bruts | Comparaison |
 | --- | --- |
 | ![](evol_2012-2018.png) | ![](compa_prive-public.png) |
-| <mark>scandale !!!</mark> de 5,4% à 6,6% (2012-2018) | public : 5,6%&rarr;6,6% = &Delta; +18%<br>SDWorx : 4,5%&rarr;5,9% = &Delta; +31%<br>Securex : 5,3%&rarr;7,1% = &Delta; +34% |
+| <mark>&nbsp;scandale !!!&nbsp;</mark><br>de 5,4% à 6,6%<br>(2012-2018) | public : 5,6%&rarr;6,6% = &Delta; +18%<br>SDWorx : 4,5%&rarr;5,9% = &Delta; +31%<br>Securex : 5,3%&rarr;7,1% = &Delta; +34% |
 
 &nbsp;
 

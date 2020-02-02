@@ -23,25 +23,23 @@ Onze *Quick Info S2* is een gelegenheid om te herinneren aan wat er bij deze gel
 
 * Implementatie in 2019 bij S2 van de beslissing van het Directiecomité van 19 maart 2019 ([overuren 06A](Nota_06_in_2019.pdf))
 
-    a&a     [Quels types de congé sont-ils possibles ?]()
+* Vraag? / Twijfel? / Inlichting?  
+&#10173; &#9743; ou &#9993; &rarr; HR-Correspondent 
 
-Une question ? / Un doute ?  
-&#10173; &#9743; ou &#9993; &rarr; Correspondant RH 
+## Ziektemelding
 
+Ziekteverzuim van 2010 tot 2018 (Bron: Medex)
 
-## Signalement des absences pour maladie
-
-Absentéisme de 2010 à 2018 (Source: Medex)
-
-| Chiffres bruts | Comparaison |
+| Brutto Cijfers | Vergelijking |
 | --- | --- |
-| ![](evol_2012-2018.png) | ![](compa_prive-public.png) |
-| <mark>scandale !!!</mark> de 5,4% à 6,6% (2012-2018) | public : 5,6%&rarr;6,6% = &Delta; +18%<br>SDWorx : 4,5%&rarr;5,9% = &Delta; +31%<br>Securex : 5,3%&rarr;7,1% = &Delta; +34% |
+| ![](evol_2012-2018_NL.png) | ![](vergel_prive_publiek.png) |
+| <mark>&nbsp;schande !!!&nbsp;</mark><br>van 5,4% naar 6,6%<br>(2012-2018) | publiek: 5,6%&rarr;6,6% = &Delta; +18%<br>SDWorx : 4,5%&rarr;5,9% = &Delta; +31%<br>Securex : 5,3%&rarr;7,1% = &Delta; +34% |
 
 &nbsp;
 
-![](resultats_2018.png)
+![](resultaten_2018.png)
 
 &nbsp;
 
-![](melding_FR.png)
+![](melding_NL.png)
+
