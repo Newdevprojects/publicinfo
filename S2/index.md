@@ -19,7 +19,7 @@
 
 ### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
-![](on.png) **21.01.2020** - [Agenda](20200121_Agenda.md)
+![](on.png) **21.01.2020** - [Agenda](20200121_Agenda.md) - Focus - FAQ HR - [FR](FAQ_personnel.md) - [NL](FAQ_personeel.md)
 
 ## &nbsp;
 
