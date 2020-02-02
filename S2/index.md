@@ -25,7 +25,7 @@
 
 ### <mark>&nbsp;Past&nbsp;</mark> ![](arch.png) 
 
-![](off.png) **21.10.2019** - [Agenda](20191021_Agenda.md)
+![](off.png) **21.10.2019** - [Agenda](20191021_Agenda.md) - Focus - [Accompagnement](20191021_offre_d-accompagnement.md) - [Begeleiding](20191021_begeleidingsaanbod.md)
 
 ![](oFF.png) **26.08.2019** [Pointeuse et télétravail](20190826_Follow-up_Quickinfo_FR.md) / [Prikklok en telewerk](20190826_Follow-up_Quickinfo_NL.md)
 
