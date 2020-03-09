@@ -19,11 +19,13 @@
 
 ### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
-![](on.png) **21.01.2020** - [Agenda](20200121_Agenda.md) - Focus - FAQ HR - [FR](FAQ_personnel.md) - [NL](FAQ_personeel.md)
+![](on.png) **17.03.2020** - [Agenda](20200317_Agenda.md) - Focus - Communication - Communicatie
 
 ## &nbsp;
 
 ### <mark>&nbsp;Past&nbsp;</mark> ![](arch.png) 
+
+![](off.png) **21.01.2020** - [Agenda](20200121_Agenda.md) - Focus - FAQ HR - [FR](FAQ_personnel.md) - [NL](FAQ_personeel.md)
 
 ![](off.png) **21.10.2019** - [Agenda](20191021_Agenda.md) - Focus - [Accompagnement](20191021_offre_d-accompagnement.md) - [Begeleiding](20191021_begeleidingsaanbod.md)
 
