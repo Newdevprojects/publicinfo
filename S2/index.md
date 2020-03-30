@@ -19,7 +19,7 @@
 
 ### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
-![](on.png) **17.03.2020** - [Agenda](20200317_Agenda.md) - Focus - Communication - Communicatie
+![](on.png) **02.06.2020** - [Agenda](20200602_Agenda.md) - Focus - Communication - Communicatie
 
 ## &nbsp;
 
