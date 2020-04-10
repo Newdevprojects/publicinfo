@@ -18,6 +18,8 @@ Après quelques années passées entre la Chine et le Japon, je suis revenue en 
 
 Une courte halte d'une année à l'ULB, le temps d'obtenir un DEA en Sciences politiques, et je me suis installée à Bruxelles, ... que je n'ai pas quittée depuis.
 
+![](Bxl_ma_belle.png)
+
 Venir vivre en Belgique était le fruit du hasard le plus total. 
 
 Pourtant, je suis tombée amoureuse de Bruxelles, puis du reste de ce pays suffisamment surréaliste pour être à la fois fascinant et attachant.
