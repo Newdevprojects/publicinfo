@@ -9,6 +9,10 @@
 
 ---
 
+# ![](refresh.svg) [**What is It?**](Quick_Info_S2_What-is-it.pdf) ![](refresh.svg)
+
+---
+
 # ![](silhouettes.svg) [**Who's Who @ S2**](whoswho.md) ![](silhouettes.svg)
 
 ---
@@ -19,7 +23,9 @@
 
 ### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
-![](on.png) **02.06.2020** - [Agenda](20200602_Agenda.md) - Focus - Communication - Communicatie
+![](on.png) **Back to normal Business!** - 
+
+![](onhold.png) **xx.xx.2020** - [Agenda](20200602_Agenda.md) - Focus - Communication - Communicatie
 
 ## &nbsp;
 
