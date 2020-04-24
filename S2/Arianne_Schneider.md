@@ -40,11 +40,11 @@ Tout allait bien, jusqu'à une période de maladie assez longue.
 
 Fort heureusement, j'ai pu revenir chez S4, mais cette fois à la presse, puis à la Bibliothèque, où j’ai appris à numériser les livres, à répondre aux demandes de la BCE/KBO.
 
-## Pourquoi S2 ? Pourquoi le mailroom ?
+## Pourquoi S2 ? Pourquoi le *Mailroom* ?
 
 &Agrave; la Bibliothèque, j'ai également fait des recherches aux archives. 
 
 La gestion de documents ne posant dès lors pas de problème pour moi, j'ai accepté bien volontiers de prendre du service à S2, cette fois au service du *Mailroom*.
 
-Et, je pense : toujours aussi souriante et à votre service, histoire de justifier chaque jour ma réputation auprès de mes collègues et amis.
+Et, je pense : toujours aussi souriante et à votre service, histoire de justifier chaque jour ma réputation auprès de mes collègues et amis !
 
