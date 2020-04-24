@@ -21,7 +21,7 @@ Après des études professionnelles commerciales, j'ai obtenu le diplôme de con
 
 Puis, j’ai travaillé pendant quatre ans en tant que contractuelle à l’hôpital de Bavière au service des prolongations des hospitalisations auprès des mutuelles.
 
-![](Baviere.png)
+![](Baviere.png)  
 *Les bâtiments de l'Hôpital de Bavière à Liège constituent un monument classé.*
 
 Puis, après un temps de chômage, je me suis installée comme indépendante pendant un an.
@@ -31,7 +31,7 @@ Puis, après un temps de chômage, je me suis installée comme indépendante pen
 Je suis entrée comme contractuelle à l’INS pour réaliser une enquête budgétaire.
 
 Pendant ce temps, j’ai passé l’examen de niveau D pour être dans une réserve.  
-Je n'ai pas eu à patienter trop longtemps : ma nomination a eu lieu en avril 1998. 
+Tous comptes faits, je n'ai finalement pas eu à patienter trop longtemps : ma nomination a eu lieu en avril 1998. 
 
 &Agrave; ce moment-là, j’ai commencé à travailler à la Direction générale de l'Information &Eacute;conomique (qui allait devenir S4 quelques années plus tard), et plus précisément au secrétariat de l’imprimerie.  
 Là-bas, je me suis occupé des commandes, de calculer les prix de revient des brochures, et j'étais également chargée de la comptabilité des différents bureaux externes, de la vérification des factures et d’autres problèmes liés au contrat de SITA, etc.
