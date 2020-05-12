@@ -23,7 +23,7 @@
 
 ### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
-![](on.png) **Back to normal Business!** - 
+![](on.png) **Back to usual Business!** - [Menu](/B2usualB/IN_2020.md)
 
 ![](onhold.png) **xx.xx.2020** - [Agenda](20200602_Agenda.md) - Focus - Communication - Communicatie
 
