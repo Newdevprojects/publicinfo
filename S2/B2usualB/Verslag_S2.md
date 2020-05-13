@@ -4,7 +4,7 @@
 
 # Jaarverslag S2
 
-Het directiecomité van 04.28.2020 heeft de tweetalige versie van het jaarverslag 2019 van de omkaderingsdienst "Budget & Beheerscontrole" (S2) goedgekeurd
+Het directiecomité van 28.04.2020 heeft de tweetalige versie van het jaarverslag 2019 van de omkaderingsdienst "Budget & Beheerscontrole" (S2) goedgekeurd
 
 De bijdragen aan de verschillende hoofdstukken werden slechts in één taal verstrekt, namelijk in het Nederlands voor:
 
