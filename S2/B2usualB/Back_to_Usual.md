@@ -24,7 +24,7 @@ Vandaar het idee van deze nieuwsbrief...
 
 * [**Les départs de S2**](OUT_2020.md)  ![](click.gif) - [**Nu al hebben ze S2 verlaten**](OUT_2020.md) ![](click.gif)
 
-* [**Ils sont sur le point de quitter S2**]()  ![](click.gif)<br>[**Ze staan ​​op het punt S2 te verlaten**]() ![](click.gif)
+* [**Ils sont sur le point de quitter S2**](OUTb_2020.md)  ![](click.gif)<br>[**Ze staan ​​op het punt S2 te verlaten**](OUTb_2020.md) ![](click.gif)
 
 * [**Focus sur ... la passion de Robert**](Chess_Lesson.md) ![](click.gif)
 
