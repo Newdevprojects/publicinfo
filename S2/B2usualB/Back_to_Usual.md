@@ -22,9 +22,9 @@ Vandaar het idee van deze nieuwsbrief...
 | ... [**Arianne**](Arianne_Schneider.md)  ![](click.gif)<br>![](smallAS.png) | &nbsp; |
 | ... [**Maria**](Maria_Eugenia_Bardaro_FR.md)  ![](click.gif) (Fr.)<br>![](smallMEB.png) | ...[**Maria**](Maria_Eugenia_Bardaro_NL.md)  ![](click.gif) (Nl.)<br>![](smallMEB.png) |
 
-* [**Ils ont quitté S2**]()  ![](click.gif) - [**Ze hebben S2 al verlaten**]() ![](click.gif)
+* [**Les départs de S2**](OUT_2020.md)  ![](click.gif) - [**Nu al hebben ze S2 verlaten**](OUT_2020.md) ![](click.gif)
 
-* [**Ils sont sur le point de quitter S2**]()  ![](click.gif) - [**Ze staan ​​op het punt S2 te verlaten**]() ![](click.gif)
+* [**Ils sont sur le point de quitter S2**]()  ![](click.gif)<br>[**Ze staan ​​op het punt S2 te verlaten**]() ![](click.gif)
 
 * [**Focus sur ... la passion de Robert**](Chess_Lesson.md) ![](click.gif)
 

@@ -8,7 +8,7 @@ Bienvenue dans une [leçon d'&Eacute;checs](https://sites.google.com/site/rdches
 
 Mais avant tout, un rappel des règles du jeu - [FR](https://fr.wikipedia.org/wiki/R%C3%A8gles_du_jeu_d%27%C3%A9checs) - [NL](https://nl.wikipedia.org/wiki/Schaken#Spelregels)
 
-Et le petit dessin animé de Pixar ["**Geri's Game**](https://www.youtube.com/watch?v=9IYRC7g2ICg)
+Et le petit dessin animé de Pixar ["**Geri's Game**"](https://www.youtube.com/watch?v=9IYRC7g2ICg)
 
 ## Pour commencer...
 
