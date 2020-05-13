@@ -14,7 +14,7 @@ Et le petit dessin animé de Pixar ["**Geri's Game**"](https://www.youtube.com/w
 
 Cliquer sur les mots : [**Début de la leçon**](https://sites.google.com/site/rdchessfra/lesson_04/lesson_04_01)
 
-![](Debut_Lecon.png)
+![](Debut_lecon.png)
 
 Et laissez vous guider.
 
