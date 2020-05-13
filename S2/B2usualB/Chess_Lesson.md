@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="Ulysses.css">
 <link rel="stylesheet" href="S2.css">
 
-# Chess Lesson (2015)
+# &nbsp;&nbsp;&nbsp; ![](b2ub.png)<br>Chess Lesson (2015)
 
 Bienvenue dans une [leçon d'&Eacute;checs](https://sites.google.com/site/rdchessfra/lesson_04) créée en mai 2015 par Robert DUMOULIN.
 

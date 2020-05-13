@@ -15,7 +15,7 @@ Vandaar het idee van deze nieuwsbrief...
 
 * [**Rapport annuel S2**](Rapport_S2.md) ![](click.gif) - [**Jaarverslag S2**](Verslag_S2.md)  ![](click.gif)
 
-* [**Arrivé&middot;e&middot;s en 2020**]()  ![](click.gif) - [**Ze zijn in 2020 aangekomen**]()  ![](click.gif)
+* [**Arrivé&middot;e&middot;s en 2020**](IN_2020.md)  ![](click.gif) - [**Ze zijn in 2020 aangekomen**](IN_2020.md)  ![](click.gif)
 
 | Qui es-tu ? | Wie ben jij? |
 | --- | --- |
@@ -26,6 +26,7 @@ Vandaar het idee van deze nieuwsbrief...
 
 * [**Ils sont sur le point de quitter S2**]()  ![](click.gif) - [**Ze staan ​​op het punt S2 te verlaten**]() ![](click.gif)
 
+* [**Focus sur ... la passion de Robert**](Chess_Lesson.md) ![](click.gif)
 
 ![](B2usualB.png)
 
