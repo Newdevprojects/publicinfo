@@ -19,8 +19,8 @@ Vandaar het idee van deze nieuwsbrief...
 
 | Qui es-tu ? | Wie ben jij? |
 | --- | --- |
-| ... [**Arianne**](Arianne_Schneider.md)  ![](click.gif)<br>![](/B2usualB/smallAS.png) | &nbsp; |
-| ... [**Maria**](Maria_Eugenia_Bardaro_FR.md)  ![](click.gif) (Fr.)<br>![](/B2usualB/smallMEB.png) | ...[**Maria**](Maria_Eugenia_Bardaro_NL.md)  ![](click.gif) (Nl.)<br>![](/B2usualB/smallMEB.png) |
+| ... [**Arianne**](Arianne_Schneider.md)  ![](click.gif)<br>![](smallAS.png) | &nbsp; |
+| ... [**Maria**](Maria_Eugenia_Bardaro_FR.md)  ![](click.gif) (Fr.)<br>![](smallMEB.png) | ...[**Maria**](Maria_Eugenia_Bardaro_NL.md)  ![](click.gif) (Nl.)<br>![](smallMEB.png) |
 
 * [**Ils ont quitté S2**]()  ![](click.gif) - [**Ze hebben S2 al verlaten**]() ![](click.gif)
 
