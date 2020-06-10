@@ -1,15 +1,15 @@
 <link rel="stylesheet" href="S2.css">
 <link rel="stylesheet" href="foghorn2.css">
 
-# Back to Usual Business<br>... (2)
+# Back to Usual Business<br>... (2) ...
 
 ![](b2ub.png)
 
 Deuxième bulletin de liaison.  
-Le premier est paru le 13 mai.
+Le premier est paru le [**13 mai**](https://newdevprojects.github.io/publicinfo/S2/B2usualB/Back_to_Usual.html) ![](click.gif)
 
 Tweede nieuwsbrief...  
-De eerste editie is op 13 mei verschenen.
+De eerste editie is verschenen op [**13 mei**](https://newdevprojects.github.io/publicinfo/S2/B2usualB/Back_to_Usual.html) ![](click.gif)
 
 ## Menu
 
