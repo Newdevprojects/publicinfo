@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="S2.css">
+<link rel="stylesheet" href="foghorn2.css">
+
 # Congé parental corona
 
 ![](https://www.lacsc.be/images/default-source/acv-csc-sitemap/3980-actualiteit-actualite/3980-nieuws-en-persberichten-actualites-et-communiques-de-presse/2020/ouderschapsverlof_lr.jpg?sfvrsn=14bc490c_6)
@@ -18,5 +21,6 @@
 
 ## En savoir plus ...
 
-[Feuille info T9](https://www.onem.be/fr/documentation/feuille-info/t9)  
-[La procédure de demande](https://www.onem.be/fr/nouveau/procedure-de-demande-du-conge-parental-corona)
+&middot; [Feuille info T9](https://www.onem.be/fr/documentation/feuille-info/t9)  
+
+&middot; [La procédure de demande](https://www.onem.be/fr/nouveau/procedure-de-demande-du-conge-parental-corona)

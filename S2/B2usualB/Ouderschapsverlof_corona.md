@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="S2.css">
+<link rel="stylesheet" href="foghorn2.css">
+
 # Ouderschapsverlof corona
 
 ![](https://www.lacsc.be/images/default-source/acv-csc-sitemap/3980-actualiteit-actualite/3980-nieuws-en-persberichten-actualites-et-communiques-de-presse/2020/ouderschapsverlof_lr.jpg?sfvrsn=14bc490c_6)
@@ -18,5 +21,6 @@
 
 ## Om meer te weten...
 
-[Infoblad T9](https://www.rva.be/nl/documentatie/infoblad/t9-0)  
-[De aanvraagprocedure](https://www.rva.be/nl/nieuws/aanvraagprocedure-corona-ouderschapsverlof)
+&middot; [Infoblad T9](https://www.rva.be/nl/documentatie/infoblad/t9-0)  
+
+&middot; [De aanvraagprocedure](https://www.rva.be/nl/nieuws/aanvraagprocedure-corona-ouderschapsverlof)
