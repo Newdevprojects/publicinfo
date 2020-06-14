@@ -13,7 +13,7 @@ De eerste editie is verschenen op [**13 mei**](https://newdevprojects.github.io/
 
 ## Menu
 
-* [**Congé parental corona**](Conge_parental_corona.md) ![](click.gif) - [**Ouderschapsverlof corona**](Ouderschapsverlof_corona.md)  ![](click.gif)
+* Le [**congé parental corona**](Conge_parental_corona.md) ![](click.gif) est prolongé jusqu'au 30.09.2020<br>[**Ouderschapsverlof corona**](Ouderschapsverlof_corona.md)  ![](click.gif) wordt tot 30.09.2020 verlengd
 
 * **Talent Exchange ?** [FR](IN_2020.md)  - [NL](IN_2020.md)
 
