@@ -14,6 +14,8 @@ De eerste editie is verschenen op [**13 mei**](https://newdevprojects.github.io/
 ## Menu
 
 * Le [**congé parental corona**](Conge_parental_corona.md) ![](click.gif) est prolongé jusqu'au 30.09.2020<br>[**Ouderschapsverlof corona**](Ouderschapsverlof_corona.md)  ![](click.gif) wordt tot 30.09.2020 verlengd
+    * <u>Attention :</u> ce congé n’est pas automatiquement prolongé. Si vous aviez déjà pris un congé parental corona pendant la période du 1er mai au 30 juin 2020, et que vous souhaitez le prolonger jusqu'au 30 septembre 2020, vous devrez refaire une nouvelle demande.
+    * <u>Let op:</u> als je dit verlof hebt genomen tijdens de periode van 1 mei tot 30 juni 2020 en je een verlenging tot 30 september wil, moet je een nieuwe aanvraag indienen.
 
 * **Talent Exchange ?** [FR](Talent_Exchange_FR.md)  - [NL](Talent_Exchange_NL.md)
 
