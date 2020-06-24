@@ -5,7 +5,7 @@
 
 J’ai 19 ans, j’habite à Tournai et je suis la nouvelle collaboratrice administrative à l’accueil du City Atrium. 
 
-## California dreamin'
+## &Eacute;change américain
 
 Vu mon âge, j'ai bien évident peu d'expériences professionnelles : jobs d'étudiante à la mutualité libérale de Tournai, au McDonald’s de Froyennes et chez O’Tacos à Tournai.
 
