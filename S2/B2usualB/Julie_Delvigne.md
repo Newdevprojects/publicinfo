@@ -12,7 +12,7 @@ Vu mon âge, j'ai bien évident peu d'expériences professionnelles : jobs d'ét
 Diplômée l’année passée, je suis surtout partie pendant 6 mois faire un échange en **Californie**. 
 
 ![](Morro_Bay.png)  
-*Morro Bay**
+*Morro Bay*
 
 Cet échange m’a permis d’ouvrir les yeux sur la chance que j’avais de vivre en Belgique. J’ai aussi appris à profiter de l’instant présent et l’échange m’a aussi grandement ouvert l’esprit. 
 
