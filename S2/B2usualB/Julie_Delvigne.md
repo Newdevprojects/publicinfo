@@ -7,7 +7,7 @@ J’ai 19 ans, j’habite à Tournai et je suis la nouvelle collaboratrice admin
 
 ## &Eacute;change américain
 
-Vu mon âge, j'ai bien évident peu d'expériences professionnelles : jobs d'étudiante à la mutualité libérale de Tournai, au McDonald’s de Froyennes et chez O’Tacos à Tournai.
+Vu mon âge, j'ai bien évidemment peu d'expérience professionnelle : jobs d'étudiante à la mutualité libérale de Tournai, au McDonald’s de Froyennes et chez O’Tacos à Tournai.
 
 Diplômée l’année passée, je suis surtout partie pendant 6 mois faire un échange en **Californie**. 
 
