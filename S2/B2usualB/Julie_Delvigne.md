@@ -32,7 +32,7 @@ En ce qui concerne mon goût pour les **voyages**, je ne cache pas que la Califo
 Ce qui m’intéresse dans les voyages, c’est vraiment le côté humain, le fait de s’ouvrir l’esprit en découvrant que notre façon de vivre n’est pas la seule qui fonctionne et que chaque système a ses bons comme ses mauvais côtés.  
 
 Je n’aime pas, par exemple, partir dans une destination de "rêve" pour me prélasser au bord de la piscine, car c’est quelque chose que l’on peut, par exemple, faire dans un pays proche comme la France.  
-Non : désormais, avant de partir à l'étranger, je me renseignerai d’abord sur la manière  dont les citoyens y sont traités (afin de ne pas donner mon argent à un gouvernement qui oppresse ses habitants) ; ensuite je chercherais à vivre le plus d’expériences enrichissantes possibles.  
+Non : désormais, avant de partir à l'étranger, je me renseignerai d’abord sur la manière  dont les citoyens y sont traités (afin de ne pas donner mon argent à un gouvernement qui oppresse ses habitants) ; ensuite, je chercherai à y vivre le plus d’expériences enrichissantes possibles.  
 
 J’aimerais donc faire plusieurs voyages humanitaires pendant ma vie, car je pense qu’il est important de réaliser combien, nous les Occidentaux, nous sommes privilégiés par rapport au reste du monde, et qu’il faut utiliser ce "privilège" pour faire le bien.
 
