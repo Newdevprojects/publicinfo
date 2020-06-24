@@ -13,8 +13,9 @@ Diplômée l’année passée, je suis surtout partie pendant 6 mois faire un é
 
 ![](Morro_Bay.png)
 
-Cet échange m’a permis d’ouvrir les yeux sur la chance que j’avais de vivre en Belgique.  
-J’ai aussi appris à profiter de l’instant présent et l’échange m’a aussi grandement ouvert l’esprit. Depuis, je regarde la Belgique sous un nouvel angle et ne cesse d’être émerveillée par tout ce qu’elle a à offrir. 
+Cet échange m’a permis d’ouvrir les yeux sur la chance que j’avais de vivre en Belgique. J’ai aussi appris à profiter de l’instant présent et l’échange m’a aussi grandement ouvert l’esprit. 
+
+C'est au point que, depuis mon retour, je ne cesse de regarder la Belgique sous un nouvel angle et d’être émerveillée par tout ce qu’elle a à offrir. 
 
 ## Mes centres d'intérêt
 
