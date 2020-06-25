@@ -32,7 +32,7 @@ Hiervoor hebben we risicoanalyses binnen alle gebouwen van de FOD uitgevoerd en 
 
 ![](EMAS.png)
 
-Stillaan voelde ik de nood om iets nieuws te doen en via [Talent Exchange]() ben ik bij de FOD Economie binnengekomen. 
+Stillaan voelde ik de nood om iets nieuws te doen en via [*Talent Exchange*](https://newdevprojects.github.io/publicinfo/S2/B2usualB/Talent_Exchange_NL.html) ben ik bij de FOD Economie binnengekomen. 
 
 **Sinds 1 juni 2020** ben ik begonnen als EMAS-coördinator bij Facility.
 
