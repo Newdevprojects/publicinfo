@@ -21,7 +21,7 @@ De eerste editie is verschenen op [**13 mei**](https://newdevprojects.github.io/
 
 | Qui es-tu ? | Wie ben jij? |
 | --- | --- |
-| &nbsp; | ... [**Vincent Zakowski**](Arianne_Schneider.md)  ![](click.gif)<br>![](smallAS.png) |
+| &nbsp; | ... [**Vincent Zakowski**](Vincent_Zakowski.md)  ![](click.gif)<br>![](smallAS.png) |
 | ...[**Julie Delvigne**](Julie_Delvigne.md)  ![](click.gif)<br>![](smallMEB.png) | &nbsp; |
 | ...[**Vanessa Folo**](Maria_Eugenia_Bardaro_NL.md)  ![](click.gif)<br>![](smallMEB.png) | &nbsp; |
 
