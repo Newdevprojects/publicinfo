@@ -25,7 +25,7 @@ C'est très simple : pour moi, il y a l’écologie et le voyage.
 L’**écologie** est très importante pour moi et c’est la raison pour laquelle j’ai commencé à opérer des changements dans ma vie : je n’achète plus de vêtements faits par des grandes enseignes (à cause du côté écologique, mais aussi en raison du fait que les droits humains des travailleurs ne sont pas respectés), je consomme le moins possible dans des supermarchés, je fais mes courses bio et/ou zéro déchet, j’utilise mon vélo plutôt que la voiture, etc.  
 
 L’écologie me passionne car c’est une réflexion constante sur ce que l’on fait et sur les solutions que l’on peut apporter à notre quotidien problématique.  
-Je m’intéresse aussi beaucoup au plantes que j’adore cultiver afin de rendre mon intérieur plus sain.
+Je m’intéresse aussi beaucoup aux plantes que j’adore cultiver afin de rendre mon intérieur plus sain.
 
 En ce qui concerne mon goût pour les **voyages**, je ne cache pas que la Californie m'a donné le goût de découvrir toujours plus de nouvelles cultures.  
 
