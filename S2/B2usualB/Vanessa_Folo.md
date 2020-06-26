@@ -51,5 +51,5 @@ En fait, j'aimerais beaucoup devenir une source de motivation pour les générat
 
 ## Et votre objectif professionnel ?  
 
-&nbsp;- Faire carrière au sein du SPF &Eacute;conomie, bien sûr ! ![](sunray.jpg)
+... Ce serait de faire carrière au sein du SPF &Eacute;conomie, bien sûr ! ![](sunray.jpg)
 
