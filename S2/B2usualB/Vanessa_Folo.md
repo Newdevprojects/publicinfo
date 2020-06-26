@@ -49,5 +49,5 @@ Depuis le **15 juin 2020**, en plein milieu de la Phase 1, je suis arrivée à S
 &Ecirc;tre épanouie dans la vie, accomplir mes rêves et ... vivre longtemps ! 
 
 J'aimerais beaucoup devenir une source de motivation pour les générations futures. Et mon objectif professionnel ?  
-- Faire carrière au sein du SPF &Eacute;conomie, bien sûr !
+&nbsp;- Faire carrière au sein du SPF &Eacute;conomie, bien sûr !
 
