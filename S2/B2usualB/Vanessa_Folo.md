@@ -17,7 +17,7 @@ Avec en plus de tout cela, ce tout petit grain de folie !
 
 En juin 2014, elle fut diplômée en "Générale &Eacute;conomie" et elle s'est ensuite lancée dans les études commerciales à l'EPHEC.  
 
-> ### ce qu'elle ajoute au tableau...
+> ### Ce qu'elle ajoute à ce tableau...
 
 Oui, c'est vrai.  
 J'étudie actuellement la comptabilité, avec comme option la fiscalité. 
@@ -27,7 +27,7 @@ J'étudie actuellement la comptabilité, avec comme option la fiscalité.
 
 ## Mais qui est réellement Vanessa ? 
 
-> ### Ce que l'on croit savoir d'elle
+> ### Ce que l'on croit savoir d'elle...
 
 C'est une fille qui ne passe pas inaperçue à vrai dire, elle a toujours su se faire remarquer dans un endroit, au milieu de plusieurs personnes...   D’où son surnom « rayon de soleil ».
 

@@ -23,7 +23,7 @@ De eerste editie is verschenen op [**13 mei**](https://newdevprojects.github.io/
 | --- | --- |
 | &nbsp; | ... [**Vincent Zakowski**](Vincent_Zakowski.md)  ![](click.gif)<br>![](smallVZ.png) |
 | ...[**Julie Delvigne**](Julie_Delvigne.md)  ![](click.gif)<br>![](smallMEB.png) | &nbsp; |
-| ...[**Vanessa Folo**](Vanessa_Folo.md)  ![](click.gif)<br>![](smallMEB.png) | &nbsp; |
+| ...[**Vanessa Folo**](Vanessa_Folo.md)  ![](click.gif)<br>![](smallVF.png) | &nbsp; |
 
 ![](B2usualB.png)
 
