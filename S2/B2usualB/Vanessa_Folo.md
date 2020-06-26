@@ -46,8 +46,10 @@ Depuis le **15 juin 2020**, en plein milieu de la Phase 1, je suis arrivée à S
 
 ## Des rêves ? Une ambition ?
 
-&Ecirc;tre épanouie dans la vie, accomplir mes rêves et ... vivre longtemps ! 
+&Ecirc;tre épanouie dans la vie, accomplir mes rêves et ... vivre longtemps !  
+En fait, j'aimerais beaucoup devenir une source de motivation pour les générations futures.
 
-J'aimerais beaucoup devenir une source de motivation pour les générations futures. Et mon objectif professionnel ?  
+## Et votre objectif professionnel ?  
+
 &nbsp;- Faire carrière au sein du SPF &Eacute;conomie, bien sûr ! ![](sunray.jpg)
 
