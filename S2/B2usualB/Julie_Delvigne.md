@@ -3,6 +3,8 @@
 
 ## Julie Delvigne 
 
+![](Julie_Delvigne.png)
+
 J’ai 19 ans, j’habite à Tournai et je suis depuis le 15 juin 2020 la nouvelle collaboratrice administrative à l’accueil du City Atrium. 
 
 ## &Eacute;change américain
