@@ -31,24 +31,23 @@ J'étudie actuellement la comptabilité, avec comme option la fiscalité.
 
 C'est une fille qui ne passe pas inaperçue à vrai dire, elle a toujours su se faire remarquer dans un endroit, au milieu de plusieurs personnes...   D’où son surnom « rayon de soleil ».
 
-Elle est dotée tant de gaité et de joie de vivre que même une personne triste pourrait retrouver le sourire rien qu’en la rencontrant.
+Elle est dotée de tant de gaité et de joie de vivre que même une personne triste pourrait retrouver le sourire rien qu’en la rencontrant.
 
-Elle a soif d’apprendre, elle n’a pas peur de faire face aux difficultés... Que du contraire ! Elle aime relever les défis. 
+Elle a soif d’apprendre, elle n’a pas peur de faire face aux difficultés...   - Que du contraire ! Elle aime relever les défis. 
 
 Elle a travaillé dans différents sociétés, telles qu’au CPAS de Bruxelles en tant qu’agent d’accueil, au Contact Center de Sibelga, mais aussi comme assistante administrative chez Dental Addict.
 
 > ### Quelque chose à ajouter, Vanessa ?
 
-Grâce à ces différents emplois, je pense avoir pu identifier mes qualités, et même certains défauts.  
-Mais ne comptez pas sur moi pour en dire davantage, car ce que j'ai appris sur moi, je pense que cela me sera bénéfique pour mon avenir.
+Grâce à ces emplois variés, je pense avoir pu identifier mes qualités, et même certains défauts.  
+Mais ne comptez pas sur moi pour en dire davantage, car ce que j'ai appris sur moi, je pense que cela doit devenir bénéfique pour mon avenir.
 
-Depuis le **15 juin 2020**, je suis arrivée à S2 en tant qu'agent d'**accueil au North Gate**.
+Depuis le **15 juin 2020**, en plein milieu de la Phase 1, je suis arrivée à S2 en tant qu'agent d'**accueil au North Gate**.
 
 ## Des rêves ? Une ambition ?
 
 &Ecirc;tre épanouie dans la vie, accomplir mes rêves et ... vivre longtemps ! 
 
-J'aimerais beaucoup devenir une source de motivation pour les générations futures.
-
-Et mon objectif professionnel : faire carrière au sein du SPF &Eacute;conomie, bien sûr !
+J'aimerais beaucoup devenir une source de motivation pour les générations futures. Et mon objectif professionnel ?  
+- Faire carrière au sein du SPF &Eacute;conomie, bien sûr !
 
