@@ -9,7 +9,7 @@ Hallo,
 
 Ik ben Vincent Zakowski, geboren 7 mei 1984 in Antwerpen en woon nu in Schilde samen met mijn vrouw en twee dochters.
 
-Ze omschrijven mij als spontaan, gedreven en realistisch . Ik houd van muziek op vinylplaten, de krant lezen, kamperen, ijsjes eten en spelen met mijn kindjes.
+Ze omschrijven mij als spontaan, gedreven en realistisch. Ik houd van muziek op vinylplaten, de krant lezen, kamperen, ijsjes eten en spelen met mijn kindjes.
 
 ## FOD... Financiën en ik
 
@@ -32,7 +32,7 @@ Hiervoor hebben we risicoanalyses binnen alle gebouwen van de FOD uitgevoerd en 
 
 ![](EMAS.png)
 
-Stillaan voelde ik de nood om iets nieuws te doen en via [*Talent Exchange*](https://newdevprojects.github.io/publicinfo/S2/B2usualB/Talent_Exchange_NL.html) ben ik bij de FOD Economie binnengekomen. 
+Stilaan voelde ik de nood om iets nieuws te doen en via [*Talent Exchange*](https://newdevprojects.github.io/publicinfo/S2/B2usualB/Talent_Exchange_NL.html) ben ik bij de FOD Economie binnengekomen. 
 
 **Sinds 1 juni 2020** ben ik begonnen als EMAS-coördinator bij Facility.
 
