@@ -35,7 +35,7 @@ Elle est dotée de tant de gaité et de joie de vivre que même une personne tri
 
 Elle a soif d’apprendre, elle n’a pas peur de faire face aux difficultés...   - Que du contraire ! Elle aime relever les défis. 
 
-Elle a travaillé dans différents sociétés, telles qu’au CPAS de Bruxelles en tant qu’agent d’accueil, au Contact Center de Sibelga, mais aussi comme assistante administrative chez Dental Addict.
+Elle a travaillé dans des sociétés très diversifiées, comme le CPAS de Bruxelles en tant qu’agent d’accueil, le Contact Center de Sibelga, mais aussi comme assistante administrative chez Dental Addict.
 
 > ### Quelque chose à ajouter, Vanessa ?
 
