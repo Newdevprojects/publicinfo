@@ -5,7 +5,7 @@
 
 ![](b2ub.png)
 
-Deuxième bulletin de liaison.  
+Deuxième bulletin de liaison...  
 Le premier est paru le [**13 mai**](https://newdevprojects.github.io/publicinfo/S2/B2usualB/Back_to_Usual.html) ![](click.gif)
 
 Tweede nieuwsbrief...  
