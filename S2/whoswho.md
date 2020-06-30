@@ -20,7 +20,7 @@
     > * [en fran&ccedil;ais](https://newdevprojects.github.io/S2/RD_F.html)
     > * [in het Nederlands](https://newdevprojects.github.io/S2/RD_N.html)
 * ## Julie DELVIGNE
-    > * [La benjamine de S2](/B2usualB/Julie_Delvigne.md)
+    > * [la benjamine de S2](/B2usualB/Julie_Delvigne.md)
 * ## Maria Eugenia BARDARO
     > * [en fran&ccedil;ais](/B2usualB/Maria_Eugenia_Bardaro_FR.md)
     > * [in het Nederlands](/B2usualB/Maria_Eugenia_Bardaro_NL.md)
