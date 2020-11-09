@@ -16,11 +16,11 @@
 Une nouvelle aventure qui commence  
 Avec de nouveaux collègues,  
 Une nouvelle manière de travailler  
-Des rencontres sur Skype …  
+Des rencontres sur Skype, ...  
 Un nouveau printemps !
 
 Tout se réveille : transformé, différent, masqué 😊 ...   
-mais toujours aussi beau et plein d’espoir d’une vie nouvelle et riche..
+mais toujours aussi beau et plein d’espoir d’une vie nouvelle et riche ...
 
 ## Qui suis-je donc derrière l'écran ?
 
@@ -28,7 +28,7 @@ J’ai rejoint le Service Financier le 1<sup>er</sup> octobre comme analyste en 
 
 J’ai un master en sciences commerciales avec une spécialisation en *Risk management* et en audit interne. 
 
-J’ai toujours travaillé dans les métiers du chiffre : analyse financière, comptabilité, audits financiers, contrôles financiers..
+J’ai toujours travaillé dans les métiers du chiffre : analyse financière, comptabilité, audits financiers, contrôles financiers, ...
 
 Pendant mes moments libres, j’adore faire du travail manuel : bricolage, décoration intérieure, jardinage, inventer de nouvelles recettes de cuisine que je partage avec des amis.  
 
