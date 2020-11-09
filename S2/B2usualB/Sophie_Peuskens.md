@@ -26,7 +26,7 @@ J'y traitais les dossiers de subvention au sein du service budget.
 
 ## Et depuis septembre ...
 
-J’ai ensuite postulé au SPF &Eacute;conomie et me voici donc à S2 depuis le **1<sup>er</sup> septembre** pour relever de nouveaux défis et acquérir de l’expérience dans de nouveaux domaines 😊 
+J’ai ensuite postulé au SPF &Eacute;conomie et me voici donc parmi vous à S2 au sein du Service Financier depuis ce 1<sup>er</sup> septembre pour relever de nouveaux défis et acquérir de l’expérience dans de nouveaux domaines 😊 aux côtés de Denis [**Mailleux**](https://newdevprojects.github.io/publicinfo/S2/Denis_Mailleux.html)
 
 ## Mes loisirs
 
