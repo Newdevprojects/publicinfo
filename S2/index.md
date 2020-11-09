@@ -23,15 +23,17 @@
 
 ### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
-![](on.png)  **30.06.2020** - *Back to usual Business!* - [Menu](/B2usualB/Back_to_Usual2.md)
-
-![](onhold.png) **xx.xx.2020** - [Agenda](20200602_Agenda.md) - Focus - Communication - Communicatie
+![](on.png)  **xx.11.2020** - *Back to usual Business!* - [Menu](/B2usualB/Back_to_Usual3.md)
 
 ## &nbsp;
 
 ### <mark>&nbsp;Past&nbsp;</mark> ![](arch.png) 
 
+![](off.png)  **30.06.2020** - *Back to usual Business!* - [Menu](/B2usualB/Back_to_Usual2.md)
+
 ![](off.png) **13.05.2020** - *Back to usual Business!* - [Menu](/B2usualB/Back_to_Usual.md)
+
+![](onhold.png) **&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;.2020** - [Agenda](20200602_Agenda.md) - Focus - Communication - Communicatie
 
 ![](off.png) **21.01.2020** - [Agenda](20200121_Agenda.md) - Focus - FAQ HR - [FR](FAQ_personnel.md) - [NL](FAQ_personeel.md)
 
