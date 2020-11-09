@@ -3,38 +3,44 @@
 
 ## Yvonne Kalinda 
 
-![](Julie_Delvigne.png)
+| ![](Yvonne_Kalinda.png) | « L'homme est le travailleur du printemps, de la vie,<br>De la graine semée et du sillon creusé,<br>Et non le créancier livide du passé ». |
+| ---: | --- |
+| &nbsp; | (Victor HUGO) |
 
-J'ai 19 ans, j'habite à Tournai et je suis depuis le 15 juin 2020 la nouvelle collaboratrice administrative à l’accueil du City Atrium. 
+&nbsp;
 
-## &Eacute;change américain
+&nbsp;
 
-Vu mon âge, j'ai bien évidemment peu d'expérience professionnelle : jobs d'étudiante à la mutualité libérale de Tournai, au McDonald's de Froyennes et chez O'Tacos à Tournai.
+## Une nouvelle aventure qui commence ...
 
-Diplômée l'année passée, je suis surtout partie pendant 6 mois faire un échange en **Californie**. 
+Une nouvelle aventure qui commence  
+Avec de nouveaux collègues,  
+Une nouvelle manière de travailler  
+Des rencontres sur Skype …  
+Un nouveau printemps !
 
-![](Morro_Bay.png)  
-*Morro Bay*
+Tout se réveille : transformé, différent, masqué 😊 ...   
+mais toujours aussi beau et plein d’espoir d’une vie nouvelle et riche..
 
-Cet échange m'a permis d’ouvrir les yeux sur la chance que j'avais de vivre en Belgique. J'ai aussi appris à profiter de l'instant présent et l'échange m'a aussi grandement ouvert l'esprit. 
+## Qui suis-je donc derrière l'écran ?
 
-C'est au point que, depuis mon retour, je ne cesse de regarder la Belgique sous un nouvel angle et d’être émerveillée par tout ce qu'elle a à offrir. 
+J’ai rejoint l’équipe S2 le 1er octobre comme <b>analyste en comptabilité</b>, après un parcours d’abord dans le secteur privé, ensuite dans le secteur public : SPF Justice, BIRB, SPP Intégration sociale, Région de Bruxelles capitale.
 
-## Mes centres d'intérêt
+J’ai un master en sciences commerciales avec une spécialisation en *Risk management* et en audit interne. 
 
-C'est très simple : pour moi, il y a l'écologie et le voyage. 
+J’ai toujours travaillé dans les métiers du chiffre : analyse financière, comptabilité, audits financiers, contrôles financiers..
 
-L'**écologie** est très importante pour moi et c'est la raison pour laquelle j'ai commencé à opérer des changements dans ma vie : je n'achète plus de vêtements faits par des grandes enseignes (à cause du côté écologique, mais aussi en raison du fait que les droits humains des travailleurs ne sont pas respectés), je consomme le moins possible dans des supermarchés, je fais mes courses bio et/ou zéro déchet, j'utilise mon vélo plutôt que la voiture, etc.  
+Pendant mes moments libres, j’adore faire du travail manuel : bricolage, décoration intérieure, jardinage, inventer de nouvelles recettes de cuisine que je partage avec des amis.  
 
-L'écologie me passionne car c'est une réflexion constante sur ce que l’on fait et sur les solutions que l'on peut apporter à notre quotidien problématique.  
-Je m'intéresse aussi beaucoup aux plantes que j'adore cultiver afin de rendre mon intérieur plus sain.
+Mais aussi faire des randonnées, lire, écrire des poèmes, écrire des histoires pour les petits enfants, ...
 
-En ce qui concerne mon goût pour les **voyages**, je ne cache pas que la Californie m'a donné le goût de découvrir toujours plus de nouvelles cultures.  
+## Ce que je sais, et ce que je veux
 
-Ce qui m'intéresse dans les voyages, c'est vraiment le côté humain, le fait de s'ouvrir l’esprit en découvrant que notre façon de vivre n'est pas la seule qui fonctionne et que chaque système a ses bons comme ses mauvais côtés.  
+Je pense que chaque être possède une belle âme au fond de lui.  
 
-Je n'aime pas, par exemple, partir dans une destination de "rêve" pour me prélasser au bord de la piscine, car c'est quelque chose que l'on peut, par exemple, faire dans un pays proche comme la France.  
-Non : désormais, avant de partir à l'étranger, je me renseignerai d’abord sur la manière  dont les citoyens y sont traités (afin de ne pas donner mon argent à un gouvernement qui oppresse ses habitants) ; ensuite, je chercherai à y vivre le plus d'expériences enrichissantes possibles.  
+Cette idée qui permet de rester sereine dans n’importe quel environnement et de valoriser toute personne.
 
-J'aimerais donc faire plusieurs voyages humanitaires pendant ma vie, car je pense qu'il est important de réaliser combien, nous les Occidentaux, nous sommes privilégiés par rapport au reste du monde, et qu'il faut utiliser ce "privilège" pour faire le bien.
+Je suis heureuse de faire partie de votre équipe et je me sens déjà attachée à mes nouveaux collègues.  
+J’espère faire vite connaissance avec vous tou(te)s !
+
 
