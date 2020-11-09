@@ -17,8 +17,8 @@ NL
 
 | Qui es-tu ? | Wie ben jij? |
 | --- | --- |
-| ... [**Sophie Peuskens**]()  ![](click.gif)<br>![](smallVZ.png) | &nbsp; |
-| ... [**Yvonne KALINDA**](Julie_Delvigne.md)  ![](click.gif)<br>![](smallJD.png) | &nbsp; |
-| ... [**Loïc NICAISE**](Vanessa_Folo.md)  ![](click.gif)<br>![](smallVF.png) | &nbsp; |
+| ... [**Sophie Peuskens**](Sophie_Peuskens.md)  ![](click.gif)<br>![](bgsvg.svg) | &nbsp; |
+| ... [**Yvonne KALINDA**](Yvonne_Kalinda.md)  ![](click.gif)<br>![](bgsvg.svg) | &nbsp; |
+| ... [**Loïc NICAISE**](Loic_Nicaise.md)  ![](click.gif)<br>![](bgsvg.svg) | &nbsp; |
 
 ![](B2usualB.png)
