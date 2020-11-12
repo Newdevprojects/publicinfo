@@ -13,17 +13,14 @@ Je suis l'heureux Papa de mon petit Sulivan, qui est né en juillet 2019.
 
 ## Mes acquis et expérience
 
-J'ai suivi une formation transpalettes et une formation de cariste.
+Pendant un an et demi, j'ai eu une expérience de collaborateur administratif au Service Imprimerie de la Banque Nationale de Belgique.
 
-En 2018, j'ai pendant deux mois été chauffeur livreur à KWM Service.
-
-Surtout, pendant un an et demi, j'ai eu une expérience de collaborateur administratif au Service Imprimerie de la Banque Nationale de Belgique.
-
-Enfin, et toujours à la BNB, j'ai été à partir de **mars 2020** collaborateur logistique auprès du Service Caisse Centrale.
+Puis, toujours à la BNB, je suis devenu collaborateur logistique auprès du Service Caisse Centrale.  
+Mon contrat n'était cependant que de six mois.
 
 ## Mars 2020, et donc ...
 
-Et donc : en cette période de crise sanitaire, la BNB n'a pas renouvelé mon contrat au-delà du 1er septembre.
+Et donc : en cette période de crise sanitaire, mais aussi parce que sa politique générale est de n'engager que pour des CDD de deux ans mximum, la BNB n'a pas renouvelé mon contrat au-delà du 1er septembre.
 
 C'est pourquoi j'ai été particulièrement reconnaissant au Service P&O du SPF &Eacute;conomie, ainsi qu'à MM. Atmane et Dumoulin, de m'avoir interviewé et de m'avoir ainsi permis de continuer ma carrière.
 
