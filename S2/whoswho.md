@@ -12,8 +12,14 @@
     > * [Dita, c'est moi !](Dita_Uslu.md)
 * ## Arianne SCHNEIDER
     > * [Je me présente](/B2usualB/Arianne_Schneider.md)
+* ## Sophie PEUSKENS
+    > * [Et me voici donc parmi vous](/B2usualB/Sophie_Peuskens.md)
+* ## Loïc NICAISE
+    > * [Mars 2020, et donc...](/B2usualB/Loic_Nicaise.md)
 * ## Denis MAILLEUX
     > * [Je m'appelle Denis...](Denis_Mailleux.md)
+* ## Yvonne KALINDA
+    > * [Une nouvelle aventure qui commence...](/B2usualB/Yvonne_Kalinda.md)
 * ## Vanessa FOLO
     > * [&#171; Rayon de soleil &#187;](/B2usualB/Vanessa_Folo.md)
 * ## Robert DUMOULIN

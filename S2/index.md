@@ -23,7 +23,7 @@
 
 ### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
-![](on.png)  **xx.11.2020** - *Back to usual Business!* - [Menu](/B2usualB/Back_to_Usual3.md)
+![](on.png)  **13.11.2020** - [*Three new colleagues*](/B2usualB/Back_to_Usual3.md)
 
 ## &nbsp;
 
