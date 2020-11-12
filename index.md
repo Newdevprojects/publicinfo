@@ -8,14 +8,16 @@
 
 ## [Who's Who](S2/whoswho.md) ![](S2/B2usualB/click.gif)
 
+&#10149;[Project Card](https://github.com/Newdevprojects/publicinfo/projects/1#card-25592022)
+
 ## Quick Info
 
-* **17.09.2018**  
-* **20.11.2018**
-* **05.02.2019**
-* **04.06.2019**
-* **21.10.2019**
-* **21.01.2020**
+* **17.09.2018** - [Project Card](https://github.com/Newdevprojects/publicinfo/projects/1#card-25591770)  
+* **20.11.2018** - [Project Card](https://github.com/Newdevprojects/publicinfo/projects/1#card-25591831)
+* **05.02.2019** - [Project Card](https://github.com/Newdevprojects/publicinfo/projects/1#card-25591859)
+* **04.06.2019** - [Project Card](https://github.com/Newdevprojects/publicinfo/projects/1#card-25591892) + [Follow-up Project Card](https://github.com/Newdevprojects/publicinfo/projects/1#card-25591632)
+* **21.10.2019** - [Project Card](https://github.com/Newdevprojects/publicinfo/projects/1#card-29636187)
+* **21.01.2020** - [Project Card](https://github.com/Newdevprojects/publicinfo/projects/1#card-32431749)
 
 ## "B2uB" Newsletters
 
@@ -25,7 +27,7 @@
 
 ---
 
-[Github Project Cards](https://github.com/Newdevprojects/publicinfo/projects/1)  
+[All Github Project Cards](https://github.com/Newdevprojects/publicinfo/projects/1)  
 
 Designed by ![](rd_40x40.png "Robert Dumoulin, Correspondant Communication S2")
 
