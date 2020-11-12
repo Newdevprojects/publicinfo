@@ -1,8 +1,8 @@
 # S2 - Public Info
 
-![](at.png) ![](header.jpg) ![](at.png)
+![](S2/at.png) ![](S2/header.jpg) ![](S2/at.png)
 
-### Permalink [https://newdevprojects.github.io/publicinfo/S2/]()
+### Permalink [https://newdevprojects.github.io/publicinfo/S2/](https://newdevprojects.github.io/publicinfo/S2/)
 
 &nbsp;
 
@@ -15,7 +15,11 @@
 * **21.10.2019**
 * **21.01.2020**
 
+## "B2uB" Newsletters
 
+* **xx.xx.2020**
+* **xx.xx.2020**
+* <mark><b>13.11.2020</b> 
 
 
 
