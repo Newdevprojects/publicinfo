@@ -6,12 +6,14 @@ img[src*="#look"] {
    height:300px;
    border-radius: 20%;
    border: #5f9ea0 3px solid;
+   margin-left: 100px;
 }
 img[src*="#portrait"] {
    width: 270px;
    height: 340px;
    border-radius: 20%;
    border: #5f9ea0 3px solid;
+   margin-left: 225px;
 }
 </style>
 
@@ -23,7 +25,9 @@ Je m’appelle Sophie, j’ai 28 ans. J’habite dans un petit village de la Pro
 
 > Hognoul était une commune à part entière, avant la fusion des communes. Depuis 1977, Hognoul fait partie d'Awans.
 
-<font color="#e1e2e2">double décalage</font>![](Hognoul.png#look)
+![](Hognoul.png#look)
+
+&nbsp;
 
 J’ai fait des études de droit à l’Helmo Saint-Martin à Liège et j’ai obtenu mon diplôme de bachelier en 2013. 
 
@@ -46,4 +50,4 @@ Durant mon temps-libre, j’aime faire du sport (fitness), des balades à pied, 
 
 &nbsp;
 
-<font color="#e1e2e2">plus grand décalage encore</font>![](Sophie_Peuskens.png#portrait)
+![](Sophie_Peuskens.png#portrait)

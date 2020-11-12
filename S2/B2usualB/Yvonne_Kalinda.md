@@ -6,12 +6,19 @@ img[src*="#look"] {
    height:333px;
    border-radius: 20%;
    border: #5f9ea0 3px solid;
+   margin-left: 50px;
+}
+img[src*="#portrait"] {
+   margin-right: 15px;
+   margin-top: 15px;
+   margin-bottom: 15px;
+   border-radius: 10%;
 }
 </style>
 
 ## Yvonne Kalinda 
 
-| ![](Yvonne_Kalinda.png) | L'homme est le travailleur<br>du printemps, de la vie,<br>De la graine semée<br>et du sillon creusé,<br>Et non le créancier livide du passé. |
+| ![](Yvonne_Kalinda.png#portrait) | L'homme est le travailleur<br>du printemps, de la vie,<br>De la graine semée<br>et du sillon creusé,<br>Et non le créancier livide du passé. |
 | ---: | :---: |
 | &nbsp; | (Victor HUGO) |
 
