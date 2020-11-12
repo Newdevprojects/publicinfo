@@ -15,9 +15,9 @@ html, body {
 
 # **S2 - Public Info**
 
-![](at.png#look) ![](header.jpg#look) ![](at.png#look)
-
 ## &#10149; [https://newdevprojects.github.io/publicinfo/S2/]()
+
+![](at.png#look) ![](header.jpg#look) ![](at.png#look)
 
 # ![](refresh.svg) [**What is It?**](Quick_Info_S2_What-is-it.pdf) ![](refresh.svg)
 # ![](silhouettes.svg) [**Who's Who @ S2**](whoswho.md) ![](silhouettes.svg)
