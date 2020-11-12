@@ -3,38 +3,31 @@
 
 ## Loïc Nicaise 
 
-![](Julie_Delvigne.png)
+![](Loic_Nicaise.png)
 
-J'ai 19 ans, j'habite à Tournai et je suis depuis le 15 juin 2020 la nouvelle collaboratrice administrative à l’accueil du City Atrium. 
+J'ai 23 ans, j'habite à Bruxelles et je suis depuis le 3 novembre 2020 le nouveau collaborateur administratif du Service Facilitaire. 
 
-## &Eacute;change américain
+## Comment me situer
 
-Vu mon âge, j'ai bien évidemment peu d'expérience professionnelle : jobs d'étudiante à la mutualité libérale de Tournai, au McDonald's de Froyennes et chez O'Tacos à Tournai.
+Je suis l'heureux Papa de mon petit Sulivan, qui est né en juillet 2019.
 
-Diplômée l'année passée, je suis surtout partie pendant 6 mois faire un échange en **Californie**. 
+## Mes acquis et expérience
 
-![](Morro_Bay.png)  
-*Morro Bay*
+J'ai suivi une formation transpalettes et une formation de cariste.
 
-Cet échange m'a permis d’ouvrir les yeux sur la chance que j'avais de vivre en Belgique. J'ai aussi appris à profiter de l'instant présent et l'échange m'a aussi grandement ouvert l'esprit. 
+En 2018, j'ai pendant deux mois été chauffeur livreur à KWM Service.
 
-C'est au point que, depuis mon retour, je ne cesse de regarder la Belgique sous un nouvel angle et d’être émerveillée par tout ce qu'elle a à offrir. 
+Surtout, pendant un an et demi, j'ai eu une expérience de collaborateur administratif au Service Imprimerie de la Banque Nationale de Belgique.
 
-## Mes centres d'intérêt
+Enfin, et toujours à la BNB, j'ai été à partir de **mars 2020** collaborateur logistique auprès du Service Caisse Centrale.
 
-C'est très simple : pour moi, il y a l'écologie et le voyage. 
+## Mars 2020, et donc ...
 
-L'**écologie** est très importante pour moi et c'est la raison pour laquelle j'ai commencé à opérer des changements dans ma vie : je n'achète plus de vêtements faits par des grandes enseignes (à cause du côté écologique, mais aussi en raison du fait que les droits humains des travailleurs ne sont pas respectés), je consomme le moins possible dans des supermarchés, je fais mes courses bio et/ou zéro déchet, j'utilise mon vélo plutôt que la voiture, etc.  
+Et donc : en cette période de crise sanitaire, la BNB n'a pas renouvelé mon contrat au-delà du 1er septembre.
 
-L'écologie me passionne car c'est une réflexion constante sur ce que l’on fait et sur les solutions que l'on peut apporter à notre quotidien problématique.  
-Je m'intéresse aussi beaucoup aux plantes que j'adore cultiver afin de rendre mon intérieur plus sain.
+C'est pourquoi j'ai été particulièrement reconnaissant au Service du P&O du SPF &Eacute;conomie et à MM. Atmane et Dumoulin, de m'interviewer et de me permettre de continuer ma carrière.
 
-En ce qui concerne mon goût pour les **voyages**, je ne cache pas que la Californie m'a donné le goût de découvrir toujours plus de nouvelles cultures.  
+Je suis donc un collaborateur *Rosetta*.   Principalement, les tâches qui me seront confiées devraient, à partir du retour en Phase 1 et 2, être en rapport étroit avec mon expérience passée, à savoir la tenue de l'&Eacute;conomat.
 
-Ce qui m'intéresse dans les voyages, c'est vraiment le côté humain, le fait de s'ouvrir l’esprit en découvrant que notre façon de vivre n'est pas la seule qui fonctionne et que chaque système a ses bons comme ses mauvais côtés.  
-
-Je n'aime pas, par exemple, partir dans une destination de "rêve" pour me prélasser au bord de la piscine, car c'est quelque chose que l'on peut, par exemple, faire dans un pays proche comme la France.  
-Non : désormais, avant de partir à l'étranger, je me renseignerai d’abord sur la manière  dont les citoyens y sont traités (afin de ne pas donner mon argent à un gouvernement qui oppresse ses habitants) ; ensuite, je chercherai à y vivre le plus d'expériences enrichissantes possibles.  
-
-J'aimerais donc faire plusieurs voyages humanitaires pendant ma vie, car je pense qu'il est important de réaliser combien, nous les Occidentaux, nous sommes privilégiés par rapport au reste du monde, et qu'il faut utiliser ce "privilège" pour faire le bien.
+Mais, en ce moment comme sans doute à l'avenir, ma flexibilité me permettra, je l'espère, de prêter main forte à mes collègues afin de répondre aux besoins en services facilitaires les plus essentiels.
 
