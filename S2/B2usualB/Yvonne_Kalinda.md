@@ -1,5 +1,13 @@
 <link rel="stylesheet" href="S2.css">
 <link rel="stylesheet" href="foghorn2.css">
+<style>
+img[src*="#look"] {
+   width:500px;
+   height:333px;
+   border-radius: 20%;
+   border: #5f9ea0 3px solid;
+}
+</style>
 
 ## Yvonne Kalinda 
 
@@ -32,7 +40,7 @@ J’ai toujours travaillé dans les métiers du chiffre : analyse financière, c
 
 Pendant mes moments libres, j’adore faire du travail manuel : bricolage, décoration intérieure, jardinage, inventer de nouvelles recettes de cuisine que je partage avec des amis.  
 
-![](poemes.png)
+![](poemes.png#look)
 
 Mais aussi bien sûr faire des randonnées.  
 Et puis : lire, écrire des poèmes, écrire des histoires pour les petits enfants, ...
