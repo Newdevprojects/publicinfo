@@ -25,9 +25,10 @@ Enfin, et toujours à la BNB, j'ai été à partir de **mars 2020** collaborateu
 
 Et donc : en cette période de crise sanitaire, la BNB n'a pas renouvelé mon contrat au-delà du 1er septembre.
 
-C'est pourquoi j'ai été particulièrement reconnaissant au Service du P&O du SPF &Eacute;conomie et à MM. Atmane et Dumoulin, de m'interviewer et de me permettre de continuer ma carrière.
+C'est pourquoi j'ai été particulièrement reconnaissant au Service P&O du SPF &Eacute;conomie, ainsi qu'à MM. Atmane et Dumoulin, de m'avoir interviewé et de m'avoir ainsi permis de continuer ma carrière.
 
-Je suis donc un collaborateur *Rosetta*.   Principalement, les tâches qui me seront confiées devraient, à partir du retour en Phase 1 et 2, être en rapport étroit avec mon expérience passée, à savoir la tenue de l'&Eacute;conomat.
+Je suis donc un collaborateur *Rosetta*.  
+Principalement, les tâches qui me seront confiées devraient, à partir du retour en Phase 1 et 2, être en rapport étroit avec mon expérience passée, à savoir la tenue de l'&Eacute;conomat.
 
-Mais, en ce moment comme sans doute à l'avenir, ma flexibilité me permettra, je l'espère, de prêter main forte à mes collègues afin de répondre aux besoins en services facilitaires les plus essentiels.
+Mais, en ce moment comme sans doute à l'avenir, ma flexibilité me permettra, je l'espère, de venir prêter main forte à mes collègues afin de répondre aux besoins en services facilitaires les plus essentiels.
 
