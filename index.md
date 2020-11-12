@@ -1,6 +1,6 @@
 <style>
 img[src*="#look"] {
-   border-bottom: 10px red solid;
+   border-bottom: 10px #b22222 solid;
 }
 
 </style>
@@ -9,7 +9,7 @@ img[src*="#look"] {
 
 ![](S2/at.png#look) ![](S2/header.jpg#look) ![](S2/at.png#look)
 
-### Permalink [https://newdevprojects.github.io/publicinfo/S2/](https://newdevprojects.github.io/publicinfo/S2/) ![](S2/B2usualB/click.gif)
+### <font color="#b22222"><b>Permalink:</b></font> [https://newdevprojects.github.io/publicinfo/S2/](https://newdevprojects.github.io/publicinfo/S2/) ![](S2/B2usualB/click.gif)
 
 &nbsp;
 
