@@ -1,5 +1,6 @@
 <style>
 img[src*="#look"] {
+   border-top: 10px #b22222 solid;
    border-bottom: 10px #b22222 solid;
 }
 
