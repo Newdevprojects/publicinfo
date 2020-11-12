@@ -2,9 +2,11 @@
 
 ![](S2/at.png) ![](S2/header.jpg) ![](S2/at.png)
 
-### Permalink [https://newdevprojects.github.io/publicinfo/S2/](https://newdevprojects.github.io/publicinfo/S2/)
+### Permalink [https://newdevprojects.github.io/publicinfo/S2/](https://newdevprojects.github.io/publicinfo/S2/) ![](S2/B2usualB/click.gif)
 
 &nbsp;
+
+## [Who's Who](S2/whoswho.md) ![](S2/B2usualB/click.gif)
 
 ## Quick Info
 
@@ -17,9 +19,9 @@
 
 ## "B2uB" Newsletters
 
-* **xx.xx.2020**
-* **xx.xx.2020**
-* <mark><b>13.11.2020</b> 
+* **13.05.2020**
+* **30.06.2020**
+* [**13.11.2020**](S2/B2usualB/Back_to_Usual3.md) ![](S2/B2usualB/click.gif) <mark><b>new</b></mark>
 
 
 
