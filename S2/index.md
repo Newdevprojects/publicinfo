@@ -7,8 +7,9 @@ img[src*="#look"] {
 img[src*="#foot"] {
    border-top: 10px red solid;
 }
-hr {
-    border: 10px red solid;
+html, body {
+        max-width:50em;
+        background:#e1e2e2;
 }
 </style>
 
