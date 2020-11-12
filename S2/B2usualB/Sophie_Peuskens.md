@@ -3,8 +3,6 @@
 
 ## Sophie Peuskens 
 
-![](big.svg)
-
 Bonjour à tous,
 
 Je m’appelle Sophie, j’ai 28 ans. J’habite dans un petit village de la Province de Liège, à Hognoul. 
@@ -32,3 +30,4 @@ J’ai ensuite postulé au SPF &Eacute;conomie et me voici donc parmi vous à S2
 
 Durant mon temps-libre, j’aime faire du sport (fitness), des balades à pied, cuisiner des pâtisseries et voir mes amis.
 
+![](Sophie_Peuskens.png)

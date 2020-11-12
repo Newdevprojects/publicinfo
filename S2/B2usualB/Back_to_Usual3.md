@@ -15,11 +15,10 @@ NL
 
 * **IN and OUT** 
 
-| Qui es-tu ? | Wie ben jij? |
+| Qui es-tu ? / Wie ben jij? | &nbsp; |
 | --- | --- |
-| ... [**Sophie Peuskens**](Sophie_Peuskens.md)  ![](click.gif)<br>![](bgsvg.svg) | &nbsp; |
-| ... [**Yvonne KALINDA**](Yvonne_Kalinda.md)  ![](click.gif)<br>![](Yvonne_Kalinda.png) | &nbsp; |
-| ... [**Loïc NICAISE**](Loic_Nicaise.md)  ![](click.gif)<br>![](bgsvg.svg) | &nbsp; |
+| ... [**Sophie Peuskens**](Sophie_Peuskens.md)  ![](click.gif)<br>![](Sophie_Peuskens.png) | &nbsp; |
+| ... [**Yvonne KALINDA**](Yvonne_Kalinda.md)  ![](click.gif)<br>![](Yvonne_Kalinda.png) | ... [**Loïc NICAISE**](Loic_Nicaise.md)  ![](click.gif)<br>![](bgsvg.svg) |
 
 ![](B2usualB.png)
 
