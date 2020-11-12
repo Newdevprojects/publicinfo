@@ -9,7 +9,7 @@ img[src*="#look"] {
 
 # Back to Usual Business<br>... (3) ...
 
-![](b2ub.png)
+![](b2ub.png) ![](Fr13.png) ![](b2ub.png)
 
 Il n'est toujours pas possible de se voir.  
 Nous n'avons pas vraiment besoin d'en écrire davantage pour expliquer les raisons de la situation actuelle.
