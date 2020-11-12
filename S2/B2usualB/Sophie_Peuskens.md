@@ -6,14 +6,14 @@ img[src*="#look"] {
    height:300px;
    border-radius: 20%;
    border: #5f9ea0 3px solid;
-   margin-left: 100px;
+   margin-left: 50px;
 }
 img[src*="#portrait"] {
    width: 270px;
    height: 340px;
    border-radius: 20%;
    border: #5f9ea0 3px solid;
-   margin-left: 225px;
+   margin-left: 150px;
 }
 </style>
 
@@ -23,9 +23,8 @@ Bonjour à tous,
 
 Je m’appelle Sophie, j’ai 28 ans. J’habite dans un petit village de la Province de Liège, à Hognoul. 
 
-> Hognoul était une commune à part entière, avant la fusion des communes. Depuis 1977, Hognoul fait partie d'Awans.
-
 ![](Hognoul.png#look)
+> Avant 1977, Hognoul était une commune à part entière. Depuis la fusion des communes, Hognoul fait partie d'Awans.
 
 &nbsp;
 

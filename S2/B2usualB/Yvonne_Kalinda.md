@@ -6,7 +6,7 @@ img[src*="#look"] {
    height:333px;
    border-radius: 20%;
    border: #5f9ea0 3px solid;
-   margin-left: 50px;
+   margin-left: 25px;
 }
 img[src*="#portrait"] {
    margin-right: 15px;
