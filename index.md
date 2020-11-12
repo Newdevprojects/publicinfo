@@ -23,6 +23,12 @@
 * **30.06.2020**
 * [**13.11.2020**](S2/B2usualB/Back_to_Usual3.md) ![](S2/B2usualB/click.gif) <mark><b>new</b></mark>
 
+---
 
+[Github Project Cards](https://github.com/Newdevprojects/publicinfo/projects/1)  
+
+Designed by ![](rd_40x40.png "Robert Dumoulin, Correspondant Communication S2")
+
+---
 
 
