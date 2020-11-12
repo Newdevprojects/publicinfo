@@ -20,7 +20,7 @@ Mon contrat n'avait cependant été renouvelé que pour six mois.
 
 ## Mars 2020, et donc ...
 
-Et donc : en cette période de crise sanitaire, mais aussi parce que sa politique générale est de n'engager que pour des CDD de deux ans maximum, la BNB n'a pas renouvelé mon contrat au-delà du 1er septembre.
+Et donc : en cette période de crise sanitaire, mais aussi parce que sa politique générale est de n'engager que pour des CDD de deux ans maximum, la BNB n'a plus renouvelé mon contrat au-delà du 1er septembre.
 
 C'est pourquoi j'ai été particulièrement reconnaissant au Service P&O du SPF &Eacute;conomie, ainsi qu'à MM. Atmane et Dumoulin, de m'avoir interviewé et de m'avoir ainsi permis de continuer ma carrière.
 
