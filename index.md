@@ -1,6 +1,13 @@
+<style>
+img[src*="#look"] {
+   border-bottom: 10px red solid;
+}
+
+</style>
+
 # S2 - Public Info
 
-![](S2/at.png) ![](S2/header.jpg) ![](S2/at.png)
+![](S2/at.png#look) ![](S2/header.jpg#look) ![](S2/at.png#look)
 
 ### Permalink [https://newdevprojects.github.io/publicinfo/S2/](https://newdevprojects.github.io/publicinfo/S2/) ![](S2/B2usualB/click.gif)
 
