@@ -10,16 +10,11 @@
 ---
 
 # ![](refresh.svg) [**What is It?**](Quick_Info_S2_What-is-it.pdf) ![](refresh.svg)
-
----
-
 # ![](silhouettes.svg) [**Who's Who @ S2**](whoswho.md) ![](silhouettes.svg)
 
 ---
 
 # ![](calendar.svg) **Quick Info S2**
-
-## &nbsp;
 
 ### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
