@@ -1,13 +1,22 @@
 <link rel="stylesheet" href="S2.css">
 <link rel="stylesheet" href="foghorn2.css">
+<style>
+img[src*="#look"] {
+   border-bottom: 10px red solid;
+}
+img[src*="#foot"] {
+   border-top: 10px red solid;
+}
+hr {
+    border: 10px red solid;
+}
+</style>
 
 # **S2 - Public Info**
 
-![](at.png) ![](header.jpg) ![](at.png)
+![](at.png#look) ![](header.jpg#look) ![](at.png#look)
 
 ## &#10148;&#10148;&#10148; [https://newdevprojects.github.io/publicinfo/S2/]()
-
----
 
 # ![](refresh.svg) [**What is It?**](Quick_Info_S2_What-is-it.pdf) ![](refresh.svg)
 # ![](silhouettes.svg) [**Who's Who @ S2**](whoswho.md) ![](silhouettes.svg)
@@ -60,6 +69,6 @@
 
 ## &#10148;&#10148;&#10148; [https://newdevprojects.github.io/publicinfo/S2/]()
 
-![](at.png) ![](header.jpg) ![](at.png)
+![](at.png#foot) ![](header.jpg#foot) ![](at.png#foot)
 
 # **S2 - Public Info**
