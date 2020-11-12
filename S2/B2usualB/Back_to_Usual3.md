@@ -15,7 +15,7 @@ Il n'est toujours pas possible de se voir.
 Nous n'avons pas vraiment besoin d'en écrire davantage pour expliquer les raisons de la situation actuelle.
 
 Het is nog steeds niet mogelijk om elkaar te zien.  
-Wij hoeven niet echt veel meer te schrijven om de redenen van de huidige toestand uit te leggen.
+Hier hoeft niet echt veel meer te schrijven om de redenen van de huidige toestand uit te leggen.
 
 ## Nos nouveaux collègues / Onze nieuwe collega's
 
