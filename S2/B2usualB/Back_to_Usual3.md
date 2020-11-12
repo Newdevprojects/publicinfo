@@ -1,9 +1,11 @@
 <link rel="stylesheet" href="S2.css">
 <link rel="stylesheet" href="foghorn2.css">
+<style>
 img[src*="#look"] {
    width:270px;
    height:215px;
 }
+</style>
 
 # Back to Usual Business<br>... (3) ...
 
@@ -25,6 +27,12 @@ Wij hoeven niet echt veel meer te schrijven om de redenen van de huidige toestan
 | --- | --- |
 | ... [**Sophie Peuskens**](Sophie_Peuskens.md)  ![](click.gif)<br>![](Sophie_Peuskens.png) | &nbsp; |
 | ... [**Yvonne KALINDA**](Yvonne_Kalinda.md) ![](click.gif)<br>![](Yvonne_Kalinda.png) | ... [**Loic NICAISE**](Loic_Nicaise.md)  ![](click.gif)<br>![](Loic_Nicaise.png#look) |
+
+## Départ / Vertrek
+
+* 16.09.2020 : [Julie Delvigne](Julie_Delvigne.md) a repris ses études / heeft haar studies hervat
+
+&nbsp;
 
 ![](B2usualB.png)
 
