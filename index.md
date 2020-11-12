@@ -18,7 +18,7 @@ img[src*="#look"] {
 
 &#10149;[Project Card](https://github.com/Newdevprojects/publicinfo/projects/1#card-25592022)
 
-## Quick Info
+## "*QuickInfo S2*" Meetings
 
 * **17.09.2018** - [Project Card](https://github.com/Newdevprojects/publicinfo/projects/1#card-25591770)  
 * **20.11.2018** - [Project Card](https://github.com/Newdevprojects/publicinfo/projects/1#card-25591831)
@@ -27,7 +27,7 @@ img[src*="#look"] {
 * **21.10.2019** - [Project Card](https://github.com/Newdevprojects/publicinfo/projects/1#card-29636187)
 * **21.01.2020** - [Project Card](https://github.com/Newdevprojects/publicinfo/projects/1#card-32431749)
 
-## "B2uB" Newsletters
+## "*B2uB*" Newsletters
 
 * **13.05.2020**
 * **30.06.2020**
