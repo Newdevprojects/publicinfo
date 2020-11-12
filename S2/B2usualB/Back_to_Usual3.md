@@ -18,7 +18,7 @@ NL
 | Qui es-tu ? / Wie ben jij? | &nbsp; |
 | --- | --- |
 | ... [**Sophie Peuskens**](Sophie_Peuskens.md)  ![](click.gif)<br>![](Sophie_Peuskens.png) | &nbsp; |
-| ... [**Yvonne KALINDA**](Yvonne_Kalinda.md)  ![](click.gif)<br>![](Yvonne_Kalinda.png)<br>&nbsp; | ... **Loïc NICAISE**<br>![](Loic_Nicaise.png)<br>&#8594; [**mon CV**]() |
+| ... [**Yvonne KALINDA**](Yvonne_Kalinda.md)  ![](click.gif)<br>![](Yvonne_Kalinda.png) | ... [**Loic NICAISE**](Loic_Nicaise.md)  ![](click.gif)<br>![](Loic_Nicaise.png) |
 
 ![](B2usualB.png)
 
