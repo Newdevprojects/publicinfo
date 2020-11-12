@@ -16,7 +16,7 @@ Je suis l'heureux Papa de mon petit Sulivan, qui est né en juillet 2019.
 Pendant un an et demi, j'ai eu une expérience de collaborateur administratif au Service Imprimerie de la Banque Nationale de Belgique.
 
 Puis, toujours à la BNB, je suis devenu collaborateur logistique auprès du Service Caisse Centrale.  
-Mon contrat n'avait cependant été renouvelé que pour six mois.
+En mars 2020, mon contrat n'avait cependant été prolongé que de six mois.
 
 ## Mars 2020, et donc ...
 
