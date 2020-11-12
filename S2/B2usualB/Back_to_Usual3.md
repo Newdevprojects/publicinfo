@@ -32,7 +32,12 @@ Hier hoeft niet echt veel meer te schrijven om de redenen van de huidige toestan
 
 * 16.09.2020 : [Julie Delvigne](Julie_Delvigne.md) a repris ses études / heeft haar studies hervat
 
-&nbsp;
+## Garder le contact / Contact houden
 
-![](B2usualB.png)
+* Patricia Dubois (01.06)
+* Christian Bastaerts (01.09)
+
+Ils ont communiqué leur adresse e-mail à Robert  
+Ze hebben Robert hun e-mailadres gegeven
+
 
