@@ -28,16 +28,19 @@ Hier hoeft niet echt veel meer te schrijven om de redenen van de huidige toestan
 | ... [**Sophie Peuskens**](Sophie_Peuskens.md)  ![](click.gif)<br>![](Sophie_Peuskens.png) | &nbsp; |
 | ... [**Yvonne KALINDA**](Yvonne_Kalinda.md) ![](click.gif)<br>![](Yvonne_Kalinda.png) | ... [**Loic NICAISE**](Loic_Nicaise.md)  ![](click.gif)<br>![](Loic_Nicaise.png#look) |
 
-## Départ / Vertrek
+## Départs / Vertrek
 
+* 01.09.2020 : Patrick Mertens (pensioen - beslissing Medex)
 * 16.09.2020 : [Julie Delvigne](Julie_Delvigne.md) a repris ses études / heeft haar studies hervat
+* 01.10.2020 : Nadia Henry (ontslag - beslissing Medex)
 
 ## Garder le contact / Contact houden
+
+Ils ont communiqué leur adresse e-mail à Robert.  
+Ze hebben Robert hun e-mailadres gegeven.
 
 * Patricia Dubois (01.06)
 * Christian Bastaerts (01.09)
 
-Ils ont communiqué leur adresse e-mail à Robert  
-Ze hebben Robert hun e-mailadres gegeven
 
 
