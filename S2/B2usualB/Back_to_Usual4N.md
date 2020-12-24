@@ -5,7 +5,7 @@
 
 ## HowTo Scope & SAGO
 
-* Scope: mijn aanvraag indienen  
+* ![](click.gif) [Scope](https://scope.belgium.be): mijn aanvraag indienen  
 [https://persopoint.be/sites/default/files/01_een_afwezigheid_of_verlof_aanvragen.mp4](https://persopoint.be/sites/default/files/01_een_afwezigheid_of_verlof_aanvragen.mp4)  
 Wanneer ik nog geen bewijsstuk heb, kan ik dat later opladen in mijn digitaaldossier.  
 Hoe precies? 
@@ -19,7 +19,7 @@ Hoe precies?
 [https://persopoint.be/sites/default/files/03_je_persoonlijke_gegevens_raadplegen_en_wijzigen.mp4](https://persopoint.be/sites/default/files/03_je_persoonlijke_gegevens_raadplegen_en_wijzigen.mp4)
 
 
-* Wat met SAGO? (https://Bosa.service-now.com/SAGO)  
+* Wat met ![](click.gif) [**SAGO**](https://Bosa.service-now.com/SAGO)?    
     * Er is geen video beschikbaar maar wel een [handleiding](https://persopoint.be/sites/default/files/publication/file/handleidingsagogebruiker2020nl.pdf) (20 blz.)
 
 ## Holidays in 2021

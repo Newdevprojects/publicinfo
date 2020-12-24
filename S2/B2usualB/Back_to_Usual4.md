@@ -5,7 +5,7 @@
 
 ## HowTo Scope & SAGO
 
-* Introduire ma demande dans Scope  
+* Introduire ma demande dans [**Scope**](https://scope.belgium.be) ![](click.gif)  
 [https://persopoint.be/sites/default/files/01_demander_un_conge_ou_une_absence.mp4](https://persopoint.be/sites/default/files/01_demander_un_conge_ou_une_absence.mp4)  
 Si je n'ai pas encore le justificatif, je peux encore la charger par la suite dans mon dossier digital.  
 Comment faire ? 
@@ -18,7 +18,7 @@ Comment faire ?
 * Consulter et modifier mes données personnelles (NB : quels types de données puis-je modifier dans Scope à 0:15/3:04)  
 [https://persopoint.be/sites/default/files/03_consulter_et_modifier_ses_donnees_personnelles.mp4](https://persopoint.be/sites/default/files/03_consulter_et_modifier_ses_donnees_personnelles.mp4)
 
-* Et pour SAGO (https://Bosa.service-now.com/SAGO) ?  
+* Et pour ![](click.gif) [**SAGO**](https://Bosa.service-now.com/SAGO) ?  
     * Il n'y a pas de vidéo, mais un [manuel](https://persopoint.be/sites/default/files/publication/file/manuelsagoutilisateur2020fr.pdf) (20 p.)
 
 ## Holidays in 2021
