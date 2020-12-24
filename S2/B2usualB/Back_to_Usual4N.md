@@ -5,7 +5,7 @@
 
 ## HowTo Scope & SAGO
 
-* ![](click.gif) [Scope](https://scope.belgium.be): mijn aanvraag indienen  
+* ![](click.gif) [**Scope**](https://scope.belgium.be): mijn aanvraag indienen  
 [https://persopoint.be/sites/default/files/01_een_afwezigheid_of_verlof_aanvragen.mp4](https://persopoint.be/sites/default/files/01_een_afwezigheid_of_verlof_aanvragen.mp4)  
 Wanneer ik nog geen bewijsstuk heb, kan ik dat later opladen in mijn digitaaldossier.  
 Hoe precies? 
