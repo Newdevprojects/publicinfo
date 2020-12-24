@@ -28,11 +28,13 @@ html, body {
 
 ### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
-![](on.png)  **13.11.2020** - [*Three new colleagues*](/B2usualB/Back_to_Usual3.md)
+![](on.png)  **24.12.2020** - [*HowTo Scope & SAGO*](/B2usualB/Back_to_Usual4.md)
 
 ## &nbsp;
 
 ### <mark>&nbsp;Past&nbsp;</mark> ![](arch.png) 
+
+![](off.png)  **13.11.2020** - [*Three new colleagues*](/B2usualB/Back_to_Usual3.md)
 
 ![](off.png)  **30.06.2020** - *Back to usual Business!* - [Menu](/B2usualB/Back_to_Usual2.md)
 
