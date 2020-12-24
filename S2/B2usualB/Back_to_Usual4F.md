@@ -9,7 +9,7 @@
 [https://persopoint.be/sites/default/files/01_demander_un_conge_ou_une_absence.mp4](https://persopoint.be/sites/default/files/01_demander_un_conge_ou_une_absence.mp4)  
 Si je n'ai pas encore le justificatif, je peux encore la charger par la suite dans mon dossier digital.  
 Comment faire ? 
-    * Sélectionner comme options : (image "Barre-de-menu_Scope.png")
+    * Sélectionner comme options :<br>![](Barre-de-menu_Scope.png)
     * voir [vidéo](https://persopoint.be/sites/default/files/04_consulter_son_dossier_personnel_digital.mp4) 1:18/2:22
 
 * Consulter l'historique dans Scope (voyez le truc pour modifier mes demandes erronées à 1:30/1:53)  

@@ -9,7 +9,7 @@
 [https://persopoint.be/sites/default/files/01_een_afwezigheid_of_verlof_aanvragen.mp4](https://persopoint.be/sites/default/files/01_een_afwezigheid_of_verlof_aanvragen.mp4)  
 Wanneer ik nog geen bewijsstuk heb, kan ik dat later opladen in mijn digitaaldossier.  
 Hoe precies? 
-    * Kies volgende opties: (afbeelding "Menubalk_Scope.png")
+    * Kies volgende opties:<br>![](Menubalk_Scope.png)
     * zie [video](https://persopoint.be/sites/default/files/04_je_digitaal_dossier_raadplegen.mp4) 1:18/2:22
 
 * Scope: het overzicht raadplegen van mijn aanvragen (zie tip om mijn verkeerde aanvragen te wijzigen 1:32/1:57)  
