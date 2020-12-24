@@ -3,7 +3,7 @@
 
 ![](b2ub.png)
 
-## HowTo Scope & SAGO
+## HowTo: Scope & SAGO
 
 * Introduire ma demande dans [**Scope**](https://scope.belgium.be) ![](click.gif)  
 [https://persopoint.be/sites/default/files/01_demander_un_conge_ou_une_absence.mp4](https://persopoint.be/sites/default/files/01_demander_un_conge_ou_une_absence.mp4)  
