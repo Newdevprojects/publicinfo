@@ -4,9 +4,9 @@
 
 ![](header.jpg)
 
-## Directeur B&Cg et Support<br>Directeur B&Bt en Support
+## Directeur B&Cg et Support<br>Directeur B&B en Support
 
-[Link](https://drive.google.com/file/d/12l-HI2U4uverNqnXmmKzqilYrYEv0XH6/view?usp=sharing)
+### [Link](https://drive.google.com/file/d/12l-HI2U4uverNqnXmmKzqilYrYEv0XH6/view?usp=sharing)
 
 ## Service Budget et Subventions<br>Dienst Budget en Subsidies
 
