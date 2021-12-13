@@ -4,7 +4,14 @@
 
 ## Comment vous remercier tous ?<br>Hoe kunnen we jullie allemaal bedanken?
 
-> **ENDROIT O&Ugrave; PLACER LE TEXTE EN FR ET NL**
+Comme il est de coutume chaque année, les services de S2 organisent soit une réception du Nouvel An, soit un team building.  
+Naar jaarlijkse gewoonte organiseren de diensten van S2 ofwel een nieuwjaarsreceptie, ofweel een teambuilding.   
+
+Tout comme en 2020, c’étaient autant d’événements attendus avec impatience par nos collaborateurs, mais malheureusement en raison de la situation actuelle qui prévaut depuis un certain temps, ils n’ont pas pu se faire. Pour remplacer ce team building et/ou la réception du Nouvel An 2022, nous souhaitons offrir à tous les employés un cadeau de Noël et du Nouvel An.  
+Hier werd net zoals in 2020 reikhalzend naar uit gekeken door onze medewerkers maar helaas door de huidige situatie die al een tijd heerst is dit niet kunnen doorgaan. Ter vervanging van deze teamuitstap en/of nieuwjaarsreceptie van 2022, wensen we alle medewerkers een Kerst en nieuwjaarsgeschenk aan te bieden.
+
+La conséquence de la pandémie mondiale se traduit également chez nos commerçants belges, c’est pourquoi nous avons opté pour un panier cadeau Leonidas. **Ce panier-cadeau vous sera livré à domicile.**  
+Het gevolg van de wereldwijde pandemie vertaalt zich ook naar onze Belgische handelaars, vandaar ook dat we graag opteren voor een geschenkmand van Leonidas. **Deze geschenkmand zal aan huis worden geleverd.**
 
 ## IN's & OUT's 2021
 
@@ -12,7 +19,7 @@
 | ---: | ---: |
 | 05.01.2021 - Maarten LEBACQ<br>(Onthaal NG)<br>![](Maarten_Lebacq.jpg) | 01.02.2021 - Pieter DHAESE<br>(interne mobiliteit E6)<br>![](whiteframe.jpg) |
 | 01.02.2021 - Hugues CLOES<br>(mobilité interne S4)<br>![](Hugues_Cloes.png) | 01.03.2021 - Vincent ZAKOWSKI<br>(Talent Exchange)<br>![](whiteframe.jpg) |
-| 01.03.2021 - Saïd BELLAJI<br>(Talent Exchange) | 01.05.2021 - Maria VAN ESSCHE<br>(pensioen) |
+| 01.03.2021 - Saïd BELLAJI<br>(retour de Talent Exchange) | 01.05.2021 - Maria VAN ESSCHE<br>(pensioen) |
 | 01.04.2021 - Najet A&Iuml;T-TAMSADEN<br>(mobilité interne S4)<br>![](Najet_Ait-Tamsaden.jpg) | 01.05.2021 - Martine VAN HERZELE<br>(pensioen)<br>![](whiteframe.jpg) |
 | 15.04.2021 - Dirk MACHIELS<br>(Einde loopbaanonderbreking) | 01.07.2021 - Christina JANSSENS<br>(pensioen) |
 | 03.05.2021 - Nils VLASSENBROECK<br>(assistent Gebouwcontact)<br>![](Nils_Vlassenbroeck.png) | 01.09.2021 - Lucienne BERVAES<br>(pensioen)<br>![](whiteframe.jpg) |
