@@ -12,6 +12,15 @@
 
 <p><font color="crimson">Het gevolg van de wereldwijde pandemie vertaalt zich ook naar onze Belgische handelaars, vandaar ook dat we graag opteren voor een geschenkmand van Leonidas.</font><br><strong>Deze geschenkmand zal aan huis worden geleverd.</strong></p>
 
+## Vivre @ S2 (résultats analyse psychosociale 2021)<br>Leven @ S2 (resultaten psychosociale analyse 2021)
+
+* **Résultats pour tout le SPF** - [intranet](Intranet_risques_2021_SPF.html) / **Resultaten voor de hele FOD** - [intranet](Intranet_risicos_2021_FOD.html)
+
+* **&Eacute;carts entre S2 et le SPF** / **Verschillen tussen S2 en de FOD**
+
+![](Table_risks_FR.png)
+![](Table_risks_NL.png)
+
 ## IN's & OUT's 2021
 
 | IN | OUT |
