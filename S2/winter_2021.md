@@ -8,8 +8,8 @@
 
 | OUT | IN |
 | ---: | ---: |
-| 05.01.2021 - Maarten LEBACQ<br>(Onthaal NG) | 01.02.2021 - Pieter DHAESE<br>(interne mobiliteit E6) |
-| 01.02.2021 - Hugues CLOES<br>(mobilité interne S4) | 01.03.2021 - Vincent ZAKOWSKI<br>(Talent Exchange) |
+| 05.01.2021 - Maarten LEBACQ<br>(Onthaal NG)<br>![](Maarten_Lebacq.jpg) | 01.02.2021 - Pieter DHAESE<br>(interne mobiliteit E6)<br>![](whiteframe.jpg) |
+| 01.02.2021 - Hugues CLOES<br>(mobilité interne S4)<br>![](Hugues_Cloes.png) | 01.03.2021 - Vincent ZAKOWSKI<br>(Talent Exchange)<br>![](whiteframe.jpg) |
 | 01.03.2021 - Saïd BELLAJI<br>(Talent Exchange) | 01.05.2021 - Maria VAN ESSCHE<br>(pensioen) |
 | 01.04.2021 - Najet A&Iuml;T-TAMSADEN<br>(mobilité interne S4) | 01.05.2021 - Martine VAN HERZELE<br>(pensioen) |
 | 15.04.2021 - Dirk MACHIELS<br>(Einde loopbaanonderbreking) | 01.07.2021 - Christina JANSSENS<br>(pensioen) |
@@ -19,6 +19,7 @@
 | 01.09.2021 - Julie DEPOORT&Egrave;RE<br>(Mailroom F) | 01.01.2022 - Lydia DIDIOT<br>(pension) |
 | 01.09.2021 - Frédérique GODART<br>(Archives) | &nbsp; |
 | 01.09.2021 - Taha MARSOU<br>(Secrétariat Directeur) | &nbsp; |
+| 06.09.2021 - Yousra BOUJNANI<br>(Comptabilité Belexpo) | &nbsp; |
 | 01.10.2021 - Katy LASSUY<br>(Budget en Subsidies) | &nbsp; |
 | 01.10.2021 - Alex REMBAUT<br>(Mailroom N) | &nbsp; |
 | 18.10.2021 - Reninca GITS<br>(interne mobiliteit S1) | &nbsp; |
