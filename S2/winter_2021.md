@@ -2,6 +2,13 @@
 
 # Liens S2 hiver 2021<br>S2 Links winter 2021
 
+| Sommaire / Inhoud |
+| :---: |
+|  [**&#9312;**](https://newdevprojects.github.io/publicinfo/S2/winter_2021.html#comment-vous-remercier-tous-hoe-kunnen-we-jullie-allemaal-bedanken) ![](click.gif)<br>&nbsp;<br>Comment vous remercier tous ?<br>Hoe kunnen we jullie allemaal bedanken?<br>&nbsp; |
+|  [**&#9313;**](https://newdevprojects.github.io/publicinfo/S2/winter_2021.html#vivre--s2-r%C3%A9sultats-analyse-psychosociale-2021leven--s2-resultaten-psychosociale-analyse-2021) ![](click.gif)<br>&nbsp;<br>Vivre @ S2 (résultats analyse psychosociale 2021)<br>Leven @ S2 (resultaten psychosociale analyse 2021)<br>&nbsp; |
+|  [**&#9314;**](https://newdevprojects.github.io/publicinfo/S2/winter_2021.html#ins--outs-2021) ![](click.gif)<br>&nbsp;<br>IN's & OUT's 2021<br>&nbsp; |
+
+
 ## &#9312;<br>Comment vous remercier tous ?<br>Hoe kunnen we jullie allemaal bedanken?
 
 <p><font color="steelblue">Il était de coutume que, chaque année, les services de S2 organisent, soit une réception de Nouvel An, soit un team building.</font><br><font color="crimson">Naar jaarlijkse gewoonte organiseren de diensten van S2 ofwel een nieuwjaarsreceptie, ofwel een teambuilding.</font></p>
@@ -27,7 +34,9 @@
 
 ![](Table_risks_FR.png)
 
-* [**Comparaison S1/SPF et S2/SPF**](Ecarts_S1-SPF-Vs-Ecarts_S2-SPF.xlsx) - (fichier Excel)
+* **Comparaison S1/SPF et S2/SPF** - [fichier Excel](Ecarts_S1-SPF-Vs-Ecarts_S2-SPF.xlsx)
+
+---
 
 * **Resultaten voor de hele FOD** - [intranet](Intranet_risicos_2021_FOD.html)
 * **Deelname S2: 45%** (51% voor de hele FOD)
@@ -41,7 +50,7 @@
 
 ![](Table_risks_NL.png)
 
-* [**Vergelijking S1/FOD en S2/FOD**](Verschillen_S1-SPF-Vs-Verschillen_S2-SPF.xlsx) - (Excel bestand)
+* **Vergelijking S1/FOD en S2/FOD** - [Excel bestand](Verschillen_S1-SPF-Vs-Verschillen_S2-SPF.xlsx)
 
 ## &#9314;<br>IN's & OUT's 2021
 
