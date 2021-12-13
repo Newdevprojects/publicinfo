@@ -2,7 +2,7 @@
 
 # Liens S2 hiver 2021<br>S2 Links winter 2021
 
-## Comment vous remercier tous ?<br>Hoe kunnen we jullie allemaal bedanken?
+## &#9312;<br>Comment vous remercier tous ?<br>Hoe kunnen we jullie allemaal bedanken?
 
 <p><font color="steelblue">Il était de coutume que, chaque année, les services de S2 organisent, soit une réception de Nouvel An, soit un team building.</font><br><font color="crimson">Naar jaarlijkse gewoonte organiseren de diensten van S2 ofwel een nieuwjaarsreceptie, ofwel een teambuilding.</font></p>
 
@@ -12,16 +12,21 @@
 
 <p><font color="crimson">Het gevolg van de wereldwijde pandemie vertaalt zich ook naar onze Belgische handelaars, vandaar ook dat we graag opteren voor een geschenkmand van Leonidas.</font><br><strong>Deze geschenkmand zal aan huis worden geleverd.</strong></p>
 
-## Vivre @ S2 (résultats analyse psychosociale 2021)<br>Leven @ S2 (resultaten psychosociale analyse 2021)
+## &#9313;<br>Vivre @ S2 (résultats analyse psychosociale 2021)<br>Leven @ S2 (resultaten psychosociale analyse 2021)
 
-* **Résultats pour tout le SPF** - [intranet](Intranet_risques_2021_SPF.html) / **Resultaten voor de hele FOD** - [intranet](Intranet_risicos_2021_FOD.html)
+* **Résultats pour tout le SPF** - [intranet](Intranet_risques_2021_SPF.html)
 
-* **&Eacute;carts entre S2 et le SPF** / **Verschillen tussen S2 en de FOD**
-
+* **&Eacute;carts entre S2 et le SPF**
+ 
 ![](Table_risks_FR.png)
+
+**Resultaten voor de hele FOD** - [intranet](Intranet_risicos_2021_FOD.html)
+
+**Verschillen tussen S2 en de FOD**
+
 ![](Table_risks_NL.png)
 
-## IN's & OUT's 2021
+## &#9314;<br>IN's & OUT's 2021
 
 | IN | OUT |
 | ---: | ---: |
@@ -42,10 +47,5 @@
 | 18.10.2021 - Reninca <b>GITS</b><br>(interne mobiliteit S1)<br>![](Reninca_Gits.jpg) | &nbsp; |
 | 03.11.2021 - Kenny <b>BAUWENS</b><br>(Mailroom N)<br>![](Kenny_Bauwens.jpg) | &nbsp; |
 | 03.11.2021 - Kristof <b>BOSMANS</b><br>(Mailroom N)<br>![](Kristof_Bosmans.png) | &nbsp; |
-| 15.12.2021 - Jonas <b>NEYT</b><br>(Gebouwcontact) | 01.02.2022 - Silvana <b>BAGGIO</b><br>(pension) |
-
-
-
-
-
+| 15.12.2021 - Jonas <b>NEYT</b><br>(Gebouwcontact)<br>![](Jonas_Neyt.png) | 01.02.2022 - Silvana <b>BAGGIO</b><br>(pension)<br>![](whiteframe.jpg) |
 
