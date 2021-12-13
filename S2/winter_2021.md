@@ -4,6 +4,8 @@
 
 ## Comment vous remercier tous ?<br>Hoe kunnen we jullie allemaal bedanken?
 
+> **ENDROIT O&Ugrave; PLACER LE TEXTE EN FR ET NL
+
 ## IN's & OUT's 2021
 
 | OUT | IN |
