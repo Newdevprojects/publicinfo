@@ -4,13 +4,16 @@
 
 ## Comment vous remercier tous ?<br>Hoe kunnen we jullie allemaal bedanken?
 
-<font color="dodgerblue">Comme il est de coutume chaque année, les services de S2 organisent soit une réception du Nouvel An, soit un team building.</font>  
+<font color="steelblue">Comme il est de coutume chaque année, les services de S2 organisent soit une réception du Nouvel An, soit un team building.</font> 
+ 
 <font color="crimson">Naar jaarlijkse gewoonte organiseren de diensten van S2 ofwel een nieuwjaarsreceptie, ofwel een teambuilding.</font>   
 
-<font color="dodgerblue">Tout comme en 2020, c’étaient autant d’événements attendus avec impatience par nos collaborateurs, mais malheureusement en raison de la situation actuelle qui prévaut depuis un certain temps, ils n’ont pas pu se faire. Pour remplacer ce team building et/ou la réception du Nouvel An 2022, nous souhaitons offrir à tous les employés un cadeau de Noël et du Nouvel An.</font>  
-<font color="crimson">Hier werd net zoals in 2020 reikhalzend naar uit gekeken door onze medewerkers maar helaas door de huidige situatie die al een tijd heerst is dit niet kunnen doorgaan. Ter vervanging van deze teamuitstap en/of nieuwjaarsreceptie van 2022, wensen we alle medewerkers een Kerst en nieuwjaarsgeschenk aan te bieden.</font>
+<font color="steelblue">Tout comme en 2020, c’étaient autant d’événements attendus avec impatience par nos collaborateurs, mais malheureusement en raison de la situation actuelle qui prévaut depuis un certain temps, ils n’ont pas pu se faire. Pour remplacer ce team building et/ou la réception du Nouvel An 2022, nous souhaitons offrir à tous les employés un cadeau de Noël et du Nouvel An.</font>  
 
-<font color="dodgerblue">La conséquence de la pandémie mondiale se traduit également chez nos commerçants belges, c’est pourquoi nous avons opté pour un panier cadeau Leonidas.</font> **Ce panier-cadeau vous sera livré à domicile.**  
+<font color="crimson">Hier werd net zoals in 2020 reikhalzend naar uit gekeken door onze medewerkers maar helaas door de huidige situatie die al een tijd heerst is dit niet kunnen doorgaan. Ter vervanging van deze teamuitstap en/of nieuwjaarsreceptie van 2022, wensen we alle medewerkers een Kerst- en nieuwjaarsgeschenk aan te bieden.</font>
+
+<font color="steelblue">La conséquence de la pandémie mondiale se traduit également chez nos commerçants belges, c’est pourquoi nous avons opté pour un panier cadeau Leonidas.</font> **Ce panier-cadeau vous sera livré à domicile.**  
+
 <font color="crimson">Het gevolg van de wereldwijde pandemie vertaalt zich ook naar onze Belgische handelaars, vandaar ook dat we graag opteren voor een geschenkmand van Leonidas.</font> **Deze geschenkmand zal aan huis worden geleverd.**
 
 ## IN's & OUT's 2021
