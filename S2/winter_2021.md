@@ -15,16 +15,33 @@
 ## &#9313;<br>Vivre @ S2 (résultats analyse psychosociale 2021)<br>Leven @ S2 (resultaten psychosociale analyse 2021)
 
 * **Résultats pour tout le SPF** - [intranet](Intranet_risques_2021_SPF.html)
+* **Participation S2 : 45 %** (51 % pour le SPF)
 
 * **&Eacute;carts entre S2 et le SPF**
- 
+
+| S2 fait mieux que le SPF (moy.) | S2 fait moins bien que le SPF (moy.) |
+| --- | --- |
+| Conflit travail-famille **+12** | Environnement social sur lieu de travail **- 8** |
+| Exigences quantitatives du travail **+10** | Possibilités de développement **- 8** |
+| Rythme de travail **+10** | &nbsp; |
+
 ![](Table_risks_FR.png)
 
-**Resultaten voor de hele FOD** - [intranet](Intranet_risicos_2021_FOD.html)
+* [**Comparaison S1/SPF et S2/SPF**](Ecarts_S1-SPF-Vs-Ecarts_S2-SPF.xlsx) - (fichier Excel)
 
-**Verschillen tussen S2 en de FOD**
+* **Resultaten voor de hele FOD** - [intranet](Intranet_risicos_2021_FOD.html)
+* **Deelname S2: 45%** (51% voor de hele FOD)
+* **Verschillen tussen S2 en de FOD**
+
+| S2 doet beter dan de FOD gem. | S2 doet minder dan de FOD gem. |
+| --- | --- |
+| Werk-familie conflict **+12** | Sociale omgeving op het werk **- 8** |
+| Kwantitatieve werkvereisten **+10** | Ontwikkelingsmogelijkheden **- 8** |
+| Werktempo **+10** | &nbsp; |
 
 ![](Table_risks_NL.png)
+
+* [**Vergelijking S1/FOD en S2/FOD**](Verschillen_S1-SPF-Vs-Verschillen_S2-SPF.xlsx) - (Excel bestand)
 
 ## &#9314;<br>IN's & OUT's 2021
 
