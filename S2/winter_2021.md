@@ -17,7 +17,7 @@
 | IN | OUT |
 | ---: | ---: |
 | 05.01.2021 - Maarten <b>LEBACQ</b><br>(Onthaal NG)<br>![](Maarten_Lebacq.jpg) | 01.02.2021 - Pieter <b>DHAESE</b><br>(interne mobiliteit E6)<br>![](whiteframe.jpg) |
-| 01.02.2021 - Hugues <b>CLOES</b><br>(mobilité interne S4)<br>![](Hugues_Cloes.png) | 01.03.2021 - Vincent <b>ZAKOWSKI</b><br>(Talent Exchange)<br>![](whiteframe_300x300.jpg) |
+| 01.02.2021 - Hugues <b>CLOES</b><br>(mobilité interne S4)<br>![](Hugues_Cloes.png) | 01.03.2021 - Vincent <b>ZAKOWSKI</b><br>(Talent Exchange)<br>![](whiteframe_310x300.jpg) |
 | 01.03.2021 - Saïd <b>BELLAJI</b><br>(retour de Talent Exchange) | 01.05.2021 - Maria <b>VAN ESSCHE</b><br>(pensioen) |
 | 01.04.2021 - Najet <b>A&Iuml;T-TAMSADEN</b><br>(mobilité interne S4)<br>![](Najet_Ait-Tamsaden.jpg) | 01.05.2021 - Martine <b>VAN HERZELE</b><br>(pensioen)<br>![](whiteframe.jpg) |
 | 15.04.2021 - Dirk <b>MACHIELS</b><br>(Einde loopbaanonderbreking) | 01.07.2021 - Christina <b>JANSSENS</b><br>(pensioen) |
