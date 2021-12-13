@@ -24,7 +24,7 @@
 | 03.05.2021 - Nils <b>VLASSENBROECK</b><br>(assistent Gebouwcontact)<br>![](Nils_Vlassenbroeck.png) | 01.09.2021 - Lucienne <b>BERVAES</b><br>(pensioen)<br>![](whiteframe.jpg) |
 | 01.08.2021 - Laurent <b>CRABECK</b><br>(Secrétariat Facility)<br>![](Laurent_Crabeck.jpg) | 01.09.2021 - Annick <b>NEUCKERMANS</b><br>(pensioen)<br>![](whiteframe.jpg) |
 | 15.08.2021 - Myra <b>BOULY</b><br>(Mailroom F)<br>![](Myra_Bouly.jpg) | 01.10.2021 - Gerard <b>RAMAEKERS</b><br>(pensioen)<br>![](whiteframe.jpg) |
-| 01.09.2021 - Julie <b>DEPOORT&Egrave;RE</b><br>(Mailroom F) | 01.01.2022 - Lydia <b>DIDIOT</b><br>(pension) |
+| 01.09.2021 - Julie <b>DEPOORT&Egrave;RE</b><br>(Mailroom F)<br>![](Julie_Depoortere.png) | 01.01.2022 - Lydia <b>DIDIOT</b><br>(pension)<br>![](whiteframe.jpg) |
 | 01.09.2021 - Frédérique <b>GODART</b><br>(Archives)<br>![](Frederique_Godart.png) | &nbsp; |
 | 01.09.2021 - Taha <b>MARSOU</b><br>(Secrétariat Directeur)<br>![](Taha_Marsou.jpg) | &nbsp; |
 | 06.09.2021 - Yousra <b>BOUJNANI</b><br>(Comptabilité Belexpo)<br>![](Yousra_Boujnani.png) | &nbsp; |
