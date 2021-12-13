@@ -17,12 +17,12 @@
 | IN | OUT |
 | ---: | ---: |
 | 05.01.2021 - Maarten <b>LEBACQ</b><br>(Onthaal NG)<br>![](Maarten_Lebacq.jpg) | 01.02.2021 - Pieter <b>DHAESE</b><br>(interne mobiliteit E6)<br>![](whiteframe.jpg) |
-| 01.02.2021 - Hugues <b>CLOES</b><br>(mobilité interne S4)<br>![](Hugues_Cloes.png) | 01.03.2021 - Vincent <b>ZAKOWSKI</b><br>(Talent Exchange)<br>![](whiteframe.jpg) |
+| 01.02.2021 - Hugues <b>CLOES</b><br>(mobilité interne S4)<br>![](Hugues_Cloes.png) | 01.03.2021 - Vincent <b>ZAKOWSKI</b><br>(Talent Exchange)<br>![](whiteframe_300x300.jpg) |
 | 01.03.2021 - Saïd <b>BELLAJI</b><br>(retour de Talent Exchange) | 01.05.2021 - Maria <b>VAN ESSCHE</b><br>(pensioen) |
 | 01.04.2021 - Najet <b>A&Iuml;T-TAMSADEN</b><br>(mobilité interne S4)<br>![](Najet_Ait-Tamsaden.jpg) | 01.05.2021 - Martine <b>VAN HERZELE</b><br>(pensioen)<br>![](whiteframe.jpg) |
 | 15.04.2021 - Dirk <b>MACHIELS</b><br>(Einde loopbaanonderbreking) | 01.07.2021 - Christina <b>JANSSENS</b><br>(pensioen) |
 | 03.05.2021 - Nils <b>VLASSENBROECK</b><br>(assistent Gebouwcontact)<br>![](Nils_Vlassenbroeck.png) | 01.09.2021 - Lucienne <b>BERVAES</b><br>(pensioen)<br>![](whiteframe.jpg) |
-| 01.08.2021 - Laurent <b>CRABECK</b><br>(Secrétariat Facility)<br>![](Laurent_Crabeck.jpg) | 01.09.2021 - Annick <b>NEUCKERMANS</b><br>(pensioen)<br>![](whiteframe.jpg) |
+| 01.08.2021 - Laurent <b>CRABECK</b><br>(Secrétariat Facility)<br>![](Laurent_Crabeck.jpg) | 01.09.2021 - Annick <b>NEUCKERMANS</b><br>(pensioen)<br>![](whiteframe_300x300.jpg) |
 | 15.08.2021 - Myra <b>BOULY</b><br>(Mailroom F)<br>![](Myra_Bouly.jpg) | 01.10.2021 - Gerard <b>RAMAEKERS</b><br>(pensioen)<br>![](whiteframe.jpg) |
 | 01.09.2021 - Julie <b>DEPOORT&Egrave;RE</b><br>(Mailroom F)<br>![](Julie_DePoortere.png) | 01.01.2022 - Lydia <b>DIDIOT</b><br>(pension)<br>![](whiteframe.jpg) |
 | 01.09.2021 - Frédérique <b>GODART</b><br>(Archives)<br>![](Frederique_Godart.png) | &nbsp; |
