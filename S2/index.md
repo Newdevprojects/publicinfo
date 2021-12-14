@@ -28,7 +28,7 @@ html, body {
 
 ### <mark>&nbsp;New&nbsp;</mark> ![](next.png)
 
-![](on.png)  **15.12.2021** - [Liens S2 hiver 2021 / S2 Links winter 2021](winter_2021.md)
+![](on.png)  **14.12.2021** - [Liens S2 hiver 2021 / S2 Links winter 2021](winter_2021.md)
 
 ## &nbsp;
 
