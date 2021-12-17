@@ -71,7 +71,7 @@
 | 01.10.2021 - Katy <b>LASSUY</b><br>(Budget en Subsidies)<br>![](Katy_Lassuy.png) | &nbsp; |
 | 01.10.2021 - Alex <b>REMBAUT</b><br>(Mailroom N)<br>![](Alex_Rembaut.png) | &nbsp; |
 | 18.10.2021 - Reninca <b>GITS</b><br>(interne mobiliteit S1)<br>![](Reninca_Gits.jpg) | &nbsp; |
-| 03.11.2021 - Kenny <b>BAUWENS</b><br>(Mailroom N)<br>![](Kenny_Bauwens.jpg) | &nbsp; |
+| 03.11.2021 - Kenny <b>BAUWENS</b><br>(Archieven)<br>![](Kenny_Bauwens.jpg) | &nbsp; |
 | 03.11.2021 - Kristof <b>BOSMANS</b><br>(Mailroom N)<br>![](Kristof_Bosmans.png) | &nbsp; |
 | 15.12.2021 - Jonas <b>NEYT</b><br>(Gebouwcontact)<br>![](Jonas_Neyt.png) | 01.02.2022 - Silvana <b>BAGGIO</b><br>(pension)<br>![](whiteframe.jpg) |
 
