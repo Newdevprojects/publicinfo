@@ -1,4 +1,5 @@
-[[Comparaison RT]]
+[[Comparaison RT]]  
+Permalink : https://newdevprojects.github.io/publicinfo/RT/Art_021F-8.html
 
 # Article 2.8 - Missions à l’étranger
 

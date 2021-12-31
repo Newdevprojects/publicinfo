@@ -1,4 +1,5 @@
-[[Comparaison RT]]
+[[Comparaison RT]]  
+Permalink : https://newdevprojects.github.io/publicinfo/RT/Art_04F.html
 
 # Article 4 – Jours fériés / Jours ouvrables
 

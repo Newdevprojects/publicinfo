@@ -1,4 +1,5 @@
-[[Comparaison RT]]
+[[Comparaison RT]]  
+Permalink : https://newdevprojects.github.io/publicinfo/RT/Art_02F-4.html
 
 # Article 2.4. – Régime pour les cadres supérieurs
 

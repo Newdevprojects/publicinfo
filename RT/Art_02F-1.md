@@ -1,4 +1,5 @@
-[[Comparaison RT]]
+[[Comparaison RT]]  
+Permalink : https://newdevprojects.github.io/publicinfo/RT/Art_02F-1.html
 
 # Article 2.1. – Durée d’une journée de travail
 

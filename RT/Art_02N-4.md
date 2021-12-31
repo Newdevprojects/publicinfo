@@ -1,4 +1,5 @@
-[[Comparaison RT]]
+[[Comparaison RT]]  
+Permalink : https://newdevprojects.github.io/publicinfo/RT/Art_02N-4.html
 
 # Artikel 2.4. - Regeling voor het hoger kaderpersoneel 
 Titularissen van de klassen vanaf A3 die ervoor gekozen hebben om niet onderworpen te zijn aan de variabele arbeidstijd, dienen evenwel:   

@@ -1,4 +1,5 @@
-[[Comparaison RT]]
+[[Comparaison RT]]  
+Permalink : https://newdevprojects.github.io/publicinfo/RT/Art_02N-2.html
 
 # Artikel 2.2. - Stam- en glijtijden 
 

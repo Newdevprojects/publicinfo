@@ -1,4 +1,5 @@
-[[Comparaison RT]]
+[[Comparaison RT]]  
+Permalink : https://newdevprojects.github.io/publicinfo/RT/Art_02N-9.html
 
 # Artikel 2.9. Verlaten van de dienst 
 

@@ -1,4 +1,6 @@
-[[Comparaison RT]]
+[[Comparaison RT]]  
+Permalink : https://newdevprojects.github.io/publicinfo/RT/Art_02F-2.html
+
 
 # Article 2.2. – Plages fixes et plages mobiles
 

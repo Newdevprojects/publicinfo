@@ -1,4 +1,6 @@
-[[Comparaison RT]]
+[[Comparaison RT]]  
+Permalink : https://newdevprojects.github.io/publicinfo/RT/Art_02-6.html
+
 
 # Article 2.6. – Récupération et transfert des heures supplémentaires
 

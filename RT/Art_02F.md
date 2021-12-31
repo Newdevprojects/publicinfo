@@ -1,4 +1,6 @@
-[[Comparaison RT]]
+[[Comparaison RT]]  
+Permalink : https://newdevprojects.github.io/publicinfo/RT/Art_02F.html
+
 
 # Article 2  – Durée du travail 
 
