@@ -97,4 +97,4 @@ Relations avec les syndicats - [[Art_13]]
 * [[Tableaux récapitulatifs des congés]]  
 * l'ancien Point 4.4. (Dispenses de service avec récupération) de l'Annexe 1 du RT
 
-<link rel="stylesheet" href="https://newdevprojects.github.io/ACV-CSC/kult.css">
+<link rel="stylesheet" href="foghorn2.css">
