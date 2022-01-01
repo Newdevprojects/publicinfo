@@ -1,4 +1,4 @@
-[[Comparaison RT]]  
+[[Comparaison_RT]]  
 Permalink : https://newdevprojects.github.io/publicinfo/RT/Art_02N-1.html
 
 # Artikel 2.1. Duur van de werkdag 

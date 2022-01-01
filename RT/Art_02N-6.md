@@ -1,4 +1,4 @@
-[[Comparaison RT]]  
+[[Comparaison_RT]]  
 Permalink : https://newdevprojects.github.io/publicinfo/RT/Art_02N-6.html
 
 # Artikel 2.6 - Recuperatie van overuren 

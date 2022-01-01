@@ -1,4 +1,4 @@
-[[Comparaison RT]]  
+[[Comparaison_RT]]  
 Permalink : https://newdevprojects.github.io/publicinfo/RT/Art_02F-5.html
 
 # Article 2.5. – Dispenses de service

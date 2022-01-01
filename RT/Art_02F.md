@@ -1,6 +1,5 @@
-[[Comparaison RT]]  
+[[Comparaison_RT]]  
 Permalink : https://newdevprojects.github.io/publicinfo/RT/Art_02F.html
-
 
 # Article 2  – Durée du travail 
 
@@ -10,10 +9,7 @@ La durée du travail est de 7h36 par jour ouvrable, 38 heures par semaine sur un
 
 Dans le cadre de l’horaire variable (Annexe 1), auquel chaque collaborateur du SPF Economie est soumis, il est possible de déroger à ce temps de travail.
 
-> NEW
-
-Het principe van variabele arbeidsprestaties geldt voor elke medewerker, behalve voor 
-de medewerker die een specifieke arbeidsregeling geniet (zie bijlage 1). 
+En principe, le système d’horaire variable s'applique à tous les membres du personnel du SPF Economie, excepté ceux bénéficiant d'un régime de travail spécifique (voir Annexe 1).
 
 ### Article 1er – Durée du travail  (RT)
 

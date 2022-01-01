@@ -1,4 +1,4 @@
-[[Comparaison RT]]  
+[[Comparaison_RT]]  
 Permalink : https://newdevprojects.github.io/publicinfo/RT/Art_03F.html
 
 # Article 3 - Droit au traitement

@@ -1,4 +1,4 @@
-[[Comparaison RT]]  
+[[Comparaison_RT]]  
 Permalink : https://newdevprojects.github.io/publicinfo/RT/Art_01N.html
 
 # Toepassingsgebied, raadpleginsgmogelijkheden en definities

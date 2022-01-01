@@ -1,4 +1,4 @@
-[[Comparaison RT]]  
+[[Comparaison_RT]]  
 Permalink : https://newdevprojects.github.io/publicinfo/RT/Art_02N.html
 
 # Artikel 2 - Arbeidsduur
@@ -11,8 +11,7 @@ referentieperiode van vier maanden.
 In het kader van de variabele arbeidstijd waaraan de medewerker onderworpen is, kan 
 er van deze arbeidsduur worden afgeweken. 
 
-Het principe van variabele arbeidsprestaties geldt voor elke medewerker, behalve voor 
-de medewerker die een specifieke arbeidsregeling geniet (zie bijlage 1). 
+Het principe van variabele arbeidsprestaties geldt voor elke medewerker, behalve voor de medewerker die een specifieke arbeidsregeling geniet (zie Bijlage 1). 
 
 ### Article 1er – Durée du travail  (RT)
 
