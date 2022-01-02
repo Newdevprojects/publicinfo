@@ -113,7 +113,7 @@ Licenciement des stagiaires - [Art_23F](Art_23F.md)
 
 [[RT_Bijlage_1]] - medewerkers die een specifieke arbeidsregeling genieten  
 [[RT_Bijlage 2]] - namen van de leden van de syndicale afvaardiging  
-[[RT_Bijlage_3]] - déontolgische code ICT 
+[[RT_Bijlage_3]] - déontologische code ICT 
 
 ## Ce qui manque
 
