@@ -1,16 +1,31 @@
 [[Comparaison_RT]]  
 Permalink : https://newdevprojects.github.io/publicinfo/RT/Art_01F.html
 
-# Champ d’application,  consultation et définitions
+# Article 1 - Champ d’application,  consultation [et définitions]
+
+(Loi du 8 avril 1965 instituant les règlements de travail qui par la loi du 18 décembre 2002 l’a rendue applicable à la fonction publique)
 
 Ce règlement de travail s’applique à toute personne avec laquelle le SPF Economie a une relation de travail.  
-(Loi du 8 avril 1965 instituant les règlements de travail qui par la loi du 18 décembre 2002 l’a rendue applicable à la fonction publique)
 
 Chaque collaborateur reçoit une copie de ce règlement par e-mail et le signe numériquement pour en accuser réception. Cet accusé de réception est téléchargé dans le dossier  du personnel digital.
 
 Le règlement de travail peut être consulté par tout collaborateur sur le site intranet du SPF Economie.
 
 Le Président et les membres du Comité de direction informent les collaborateurs du SPF Economie des modiﬁcations du règlement de travail et/ou de ses annexes, à la ﬁn de la négociation ou de la concertation avec les organisations syndicales représentatives.
+
+> NEW
+
+## Artikel 1.1. - [Definities] 
+
+Voor de toepassing van dit reglement wordt begrepen: 
+
+Medewerker: Elkeen met wie de FOD Economie een arbeidsrelatie heeft, ongeacht of deze medewerker in stage, vastbenoemd, contractueel of ander verband tewerkgesteld wordt. 
+
+Leidinggevende: de functionele leidinggevende, wanneer die hiertoe het mandaat heeft ontvangen van de leidinggevende. 
+
+Directeur-generaal: de mandaathouder of de persoon die ad interim de leiding van een Algemene Directie waarneemt of de door hem aangewezen vervanger. 
+
+Stafdirecteur: de mandaathouder of de persoon die de leiding over een Stafdienst ad interim waarneemt of de door hem aangewezen vervanger. 
 
 ### Champ d’application et consultation  (ancien RT)
 

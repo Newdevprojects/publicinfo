@@ -1,7 +1,7 @@
 [[Comparaison_RT]]  
 Permalink : https://newdevprojects.github.io/publicinfo/RT/Art_01N.html
 
-# Toepassingsgebied, raadpleginsgmogelijkheden en definities
+# Artikel 1 - Toepassingsgebied, raadpleginsgmogelijkheden [en definities]
 
 (Wet van 8 april 1965 tot instelling van de arbeidsreglementen die bij de wet van 18 december 2002 van toepassing werd gemaakt op de overheidsdiensten.) 
 
@@ -16,7 +16,7 @@ De Voorzitter en de leden van het Directiecomité zorgen ervoor dat de medewerke
 
 > NEW
 
-## 1.1.Definities 
+## Artikel 1.1. - [Definities] 
 
 Voor de toepassing van dit reglement wordt begrepen: 
 
