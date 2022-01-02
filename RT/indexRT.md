@@ -1,6 +1,6 @@
 # Comparaison après réécriture du Règlement de Travail
 
-Permalink : https://newdevprojects.github.io/publicinfo/RT/indexRT.html
+Permalink : [https://newdevprojects.github.io/publicinfo/RT/indexRT.html](https://newdevprojects.github.io/publicinfo/RT/indexRT.html)
 
 ## Découpage à partir du RT
 
@@ -24,8 +24,8 @@ Droit au traitement - [Art_03F](https://newdevprojects.github.io/publicinfo/RT/A
 Jours fériés / Jours ouvrables - [Art_04F](https://newdevprojects.github.io/publicinfo/RT/Art_04F.html) - [Art_04N](https://newdevprojects.github.io/publicinfo/RT/Art_04N.html)
 
 Absences - [Art_05F](https://newdevprojects.github.io/publicinfo/RT/Art_05F.html) - [Art_05N](https://newdevprojects.github.io/publicinfo/RT/Art_05N.html)  
-Congé annuel (5.1.), congé annuel supplémentaire (5.2), calcul du congé annuel (5.3), paiement des jours restants (5.4), procédure de demande (5.5), procédure de demande en cas de maladie (5.6) - [[Art_05F-1-6]] - [[Art_05N-1-6]]  
-[[Art_05F-7]] - [[Art_05N-7]] - Régime de congé
+Congé annuel (5.1.), congé annuel supplémentaire (5.2), calcul du congé annuel (5.3), paiement des jours restants (5.4), procédure de demande (5.5), procédure de demande en cas de maladie (5.6) - [Art_05F-1-6](https://newdevprojects.github.io/publicinfo/RT/Art_05F-1-6.html) - [Art_05N-1-6](https://newdevprojects.github.io/publicinfo/RT/Art_05N-1-6.html)  
+[Art_05F-7](https://newdevprojects.github.io/publicinfo/RT/Art_05F-7.html) - [Art_05N-7](Art_05N-7.md) - Régime de congé
 
 Droits et devoirs  
 Droits (6.1), devoirs (6.2), déontologie (6.3)- [[Art_06F-1-3]] - [[Art_06N-1-3]]  
