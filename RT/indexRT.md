@@ -1,6 +1,6 @@
 # Comparaison après réécriture du Règlement de Travail
 
-Permalink : https://newdevprojects.github.io/publicinfo/RT/index_RT.html
+Permalink : https://newdevprojects.github.io/publicinfo/RT/indexRT.html
 
 ## Découpage à partir du RT
 
